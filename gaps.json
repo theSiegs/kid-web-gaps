@@ -749,11 +749,6 @@
   "rank": 8124,
   "reason": "reviewed"
  },
- "kwg-sync-test.example": {
-  "category": "always-block",
-  "rank": null,
-  "reason": "TEMPORARY end-to-end sync test, remove after"
- },
  "ladbrokes.com": {
   "category": "gambling.mini",
   "rank": 4804,
