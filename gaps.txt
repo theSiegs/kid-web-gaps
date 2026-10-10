@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-10-10: 457 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-10: 458 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -151,6 +151,7 @@ kalshi.com
 kdreams.jp
 kinogo.ec
 kinogo.online
+kwg-sync-test.example
 ladbrokes.com
 librex.devol.it
 librex.me
