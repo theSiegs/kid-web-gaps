@@ -1,2 +1,3 @@
 # Domains always pushed, whatever the sources say (hand-curated gaps: anonymous chat, unblocked-games portals...).
 # One per line; text after '#' is a note.
+kwg-sync-test.example  # TEMPORARY end-to-end sync test, remove after
