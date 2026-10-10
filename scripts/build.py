@@ -41,7 +41,7 @@ INFRA = re.compile(
 )
 DOMAIN = re.compile(r"^(?=.{4,253}$)([a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,63}$")
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{}:generateContent"
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-lite-latest")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or "gemini-flash-lite-latest"
 
 
 def fetch(url: str) -> bytes:
