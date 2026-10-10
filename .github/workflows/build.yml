@@ -1,0 +1,62 @@
+name: Build list
+
+on:
+  schedule:
+    - cron: "17 6 * * *"  # daily, 06:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["overrides/**", "scripts/**"]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+      - name: Set up Python
+        uses: actions/setup-python@e797f83bcb11b83ae66e0230d6156d7c80228e7c # v6.0.0
+        with:
+          python-version: "3.13"
+      - name: Build gaps.txt
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: python scripts/build.py
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "kid-web-gaps bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "List update $(date -u +%F)"
+            git push
+          else
+            echo "No changes"
+          fi
+      - name: Keep the review issue current
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          pending=$(grep -v '^#' overrides/pending.txt | grep -c . || true)
+          title="Domains waiting for review"
+          number=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
+          if [ "$pending" -gt 0 ]; then
+            {
+              echo "$pending domain(s) are held back until a decision. For each line in \`overrides/pending.txt\`,"
+              echo "move it to \`overrides/always-block.txt\` (block) or \`overrides/never-block.txt\` (don't)."
+              echo; echo '```'; grep -v '^#' overrides/pending.txt; echo '```'
+            } > body.md
+            if [ -n "$number" ]; then gh issue edit "$number" --body-file body.md
+            else gh issue create --title "$title" --body-file body.md; fi
+          elif [ -n "$number" ]; then
+            gh issue close "$number" --comment "Nothing left to review."
+          fi

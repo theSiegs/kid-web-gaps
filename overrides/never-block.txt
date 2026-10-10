@@ -1,0 +1,99 @@
+# Domains never pushed, even if a source list has them. One per line; text after '#' is a note.
+365scores.com  # false positive: legitimate site
+a-ads.com  # ad network / tracker (not a site)
+adguard-dns.com  # DNS resolver / DoH endpoint (not a site)
+ads-twitter.com  # CDN / API / tracking host of a social network (not navigated)
+aiscore.com  # false positive: legitimate site
+alidns.com  # DNS resolver / DoH endpoint (not a site)
+amemv.com  # CDN / API / tracking host of a social network (not navigated)
+attheraces.com  # false positive: legitimate site
+azureserv.com  # infrastructure / CDN / random host (not a site)
+byteimg.com  # CDN / API / tracking host of a social network (not navigated)
+byteoversea.com  # CDN / API / tracking host of a social network (not navigated)
+c6gj-static.net  # infrastructure / CDN / random host (not a site)
+cdninstagram.com  # CDN / API / tracking host of a social network (not navigated)
+cloudflare-dns.com  # DNS resolver / DoH endpoint (not a site)
+cloudflare-gateway.com  # DNS resolver / DoH endpoint (not a site)
+decodo.com  # enterprise/school VPN or dev tool, not a kid workaround
+discord.media  # CDN / API / tracking host of a social network (not navigated)
+discordapp.net  # CDN / API / tracking host of a social network (not navigated)
+dns.google  # DNS resolver / DoH endpoint (not a site)
+dnspod.com  # DNS resolver / DoH endpoint (not a site)
+doh.pub  # DNS resolver / DoH endpoint (not a site)
+douyincdn.com  # CDN / API / tracking host of a social network (not navigated)
+douyinpic.com  # CDN / API / tracking host of a social network (not navigated)
+douyinvod.com  # CDN / API / tracking host of a social network (not navigated)
+dtscout.com  # ad network / tracker (not a site)
+expressapisv2.net  # infrastructure / CDN / random host (not a site)
+facebook-hardware.com  # CDN / API / tracking host of a social network (not navigated)
+facebook.net  # CDN / API / tracking host of a social network (not navigated)
+fandango.com  # false positive: legitimate site
+fbcdn.net  # CDN / API / tracking host of a social network (not navigated)
+fbsbx.com  # CDN / API / tracking host of a social network (not navigated)
+flashscore.com.br  # false positive: legitimate site
+flashscore.fr  # false positive: legitimate site
+freewebs.com  # false positive: legitimate site
+gpcloudservice.com  # enterprise/school VPN or dev tool, not a kid workaround
+habr.com  # not social media for a kid filter (tech blog / email portal / jobs) - decide
+honeygain.com  # bandwidth-sharing app backend
+imgsmail.ru  # CDN / API / tracking host of a social network (not navigated)
+internetwarriors.net  # false positive: legitimate site
+joinmassive.com  # bandwidth-sharing app backend
+jra.go.jp  # false positive: legitimate site
+kbz0pwvxmv.com  # infrastructure / CDN / random host (not a site)
+keiba.go.jp  # false positive: legitimate site
+licdn.com  # CDN / API / tracking host of a social network (not navigated)
+line-apps.com  # CDN / API / tracking host of a social network (not navigated)
+line-scdn.net  # CDN / API / tracking host of a social network (not navigated)
+linkedin.com  # not social media for a kid filter (tech blog / email portal / jobs) - decide
+lnkd.in  # not social media for a kid filter (tech blog / email portal / jobs) - decide
+localto.net  # enterprise/school VPN or dev tool, not a kid workaround
+mail.ru  # not social media for a kid filter (tech blog / email portal / jobs) - decide
+mundodeportivo.com  # false positive: legitimate site
+mycdn.me  # CDN / API / tracking host of a social network (not navigated)
+ngrok.com  # enterprise/school VPN or dev tool, not a kid workaround
+ngrok.io  # enterprise/school VPN or dev tool, not a kid workaround
+okcdn.ru  # CDN / API / tracking host of a social network (not navigated)
+opendns.com  # DNS resolver / DoH endpoint (not a site)
+oxylabs.io  # enterprise/school VPN or dev tool, not a kid workaround
+pandasecurity.com  # enterprise/school VPN or dev tool, not a kid workaround
+pango-cloud.com  # infrastructure / CDN / random host (not a site)
+pinimg.com  # CDN / API / tracking host of a social network (not navigated)
+pointtoserver.com  # infrastructure / CDN / random host (not a site)
+pstatp.com  # CDN / API / tracking host of a social network (not navigated)
+redditmedia.com  # CDN / API / tracking host of a social network (not navigated)
+redditstatic.com  # CDN / API / tracking host of a social network (not navigated)
+resolver.arpa  # DNS resolver / DoH endpoint (not a site)
+sc-cdn.net  # CDN / API / tracking host of a social network (not navigated)
+sc-gw.com  # CDN / API / tracking host of a social network (not navigated)
+sc-static.net  # CDN / API / tracking host of a social network (not navigated)
+snapkit.com  # CDN / API / tracking host of a social network (not navigated)
+snssdk.com  # CDN / API / tracking host of a social network (not navigated)
+soax.com  # enterprise/school VPN or dev tool, not a kid workaround
+sportinglife.com  # false positive: legitimate site
+sportingnews.com  # false positive: legitimate site
+su89-cdn.net  # infrastructure / CDN / random host (not a site)
+t.co  # link shortener used everywhere (blocking breaks shared links)
+tailscale.com  # enterprise/school VPN or dev tool, not a kid workaround
+tiktokcdn-eu.com  # CDN / API / tracking host of a social network (not navigated)
+tiktokcdn-us.com  # CDN / API / tracking host of a social network (not navigated)
+tiktokcdn.com  # CDN / API / tracking host of a social network (not navigated)
+tiktokrow-cdn.com  # CDN / API / tracking host of a social network (not navigated)
+tiktokv.com  # CDN / API / tracking host of a social network (not navigated)
+tiktokv.eu  # CDN / API / tracking host of a social network (not navigated)
+tiktokv.us  # CDN / API / tracking host of a social network (not navigated)
+tiktokw.eu  # CDN / API / tracking host of a social network (not navigated)
+tiktokw.us  # CDN / API / tracking host of a social network (not navigated)
+traffmonetizer.com  # bandwidth-sharing app backend
+ttlivecdn.com  # CDN / API / tracking host of a social network (not navigated)
+twimg.com  # CDN / API / tracking host of a social network (not navigated)
+twingate.com  # enterprise/school VPN or dev tool, not a kid workaround
+twtrdns.net  # CDN / API / tracking host of a social network (not navigated)
+userapi.com  # CDN / API / tracking host of a social network (not navigated)
+vk-portal.net  # CDN / API / tracking host of a social network (not navigated)
+vkuser.net  # CDN / API / tracking host of a social network (not navigated)
+vkuseraudio.net  # CDN / API / tracking host of a social network (not navigated)
+x-cdn-static.com  # infrastructure / CDN / random host (not a site)
+xbox-dns.ru  # DNS resolver / DoH endpoint (not a site)
+yg5sjx5kzy.com  # infrastructure / CDN / random host (not a site)
+zijieapi.com  # CDN / API / tracking host of a social network (not navigated)

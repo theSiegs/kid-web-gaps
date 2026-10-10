@@ -1,0 +1,10 @@
+# Awaiting a human decision: move each line to always-block.txt or never-block.txt.
+4shared.com  # file host - decide
+caesars.com  # casino + hotels - decide
+forebet.com  # sports predictions (betting-adjacent) - decide
+mangadex.org  # manga reader - decide
+mcpedl.org  # Minecraft add-ons - decide
+mediafire.com  # file host - decide
+mega.co.nz  # file host (also piracy) - decide
+mega.nz  # file host (also piracy) - decide
+rapidgator.net  # file host - decide
