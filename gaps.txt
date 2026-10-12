@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-10-11: 459 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-12: 459 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
