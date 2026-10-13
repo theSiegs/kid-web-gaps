@@ -1,6 +1,7 @@
 # Awaiting a human decision: move each line to always-block.txt or never-block.txt.
 4shared.com  # file host - decide
 caesars.com  # casino + hotels - decide
+douyinliving.com  # new in social, not reviewed yet
 forebet.com  # sports predictions (betting-adjacent) - decide
 mangadex.org  # manga reader - decide
 mcpedl.org  # Minecraft add-ons - decide
