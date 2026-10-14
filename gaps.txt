@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-10-13: 456 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-14: 455 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -59,6 +59,7 @@ betpawa.cm
 betpawa.co.tz
 betpawa.co.zm
 betpawa.com
+betpawa.mw
 betpawa.ug
 betway.co.mz
 betway.co.za
@@ -73,7 +74,6 @@ caliente.mx
 casinoplus.com.ph
 cinecalidad.am
 coolrom.com
-cordkit.online
 crowncoinscasino.com
 croxyproxy.com
 crystalbet.com
@@ -94,6 +94,7 @@ e-hentai.org
 ecuabet.com
 egydead.live
 eksisozluk.com
+elephantbet.co.ao
 elephantbet.co.mz
 eulie.de
 evo-games.com
@@ -219,7 +220,6 @@ oscobo.com
 paddypower.com
 paytmfirstgames.com
 peekier.com
-ph365.org
 pikabu.ru
 pin.it
 pinterest.co.uk
@@ -424,7 +424,6 @@ twitter.com
 uakinogo.io
 urban-vpn.com
 utorrent.com
-vegamovies.futbol
 veikkaus.fi
 videy.co
 vimm.net
