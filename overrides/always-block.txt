@@ -1,2 +1,5 @@
 # Domains always pushed, whatever the sources say (hand-curated gaps: anonymous chat, unblocked-games portals...).
 # One per line; text after '#' is a note.
+pinterestpresents.com  # Pinterest's event/marketing site; the rest of Pinterest is in HaGeZi social
+pixelchat.ai  # AI character role-play chat, rated 18+
+archiveofourown.org  # fan-fiction archive with many Explicit-rated works, no age check
