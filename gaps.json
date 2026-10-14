@@ -164,6 +164,11 @@
   "rank": 8962,
   "reason": "reviewed"
  },
+ "archiveofourown.org": {
+  "category": "always-block",
+  "rank": 1113,
+  "reason": "fan-fiction archive with many Explicit-rated works, no age check"
+ },
  "arenaplus.ph": {
   "category": "gambling.mini",
   "rank": 9611,
@@ -1118,6 +1123,16 @@
   "category": "social",
   "rank": 9589,
   "reason": "reviewed"
+ },
+ "pinterestpresents.com": {
+  "category": "always-block",
+  "rank": null,
+  "reason": "Pinterest's event/marketing site; the rest of Pinterest is in HaGeZi social"
+ },
+ "pixelchat.ai": {
+  "category": "always-block",
+  "rank": 423658,
+  "reason": "AI character role-play chat, rated 18+"
  },
  "planetwin365.it": {
   "category": "gambling.mini",

@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-10-14: 455 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-14: 458 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -34,6 +34,7 @@ apkvision.org
 aptoide.com
 apuestasroyal.com
 apuestatotal.com
+archiveofourown.org
 arenaplus.ph
 arionplay.com
 atg.se
@@ -225,6 +226,8 @@ pin.it
 pinterest.co.uk
 pinterest.com
 pinterest.de
+pinterestpresents.com
+pixelchat.ai
 planetwin365.it
 platinmods.com
 playmods.net
