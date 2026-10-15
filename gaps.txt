@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-10-14: 458 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-15: 456 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -12,7 +12,6 @@
 5movierulz.plumbing
 5play.org
 789bingo.com
-8888.bg
 99xo4.com
 9gag.com
 9mod.com
@@ -27,6 +26,7 @@ anikototv.to
 animepahe.pw
 aniwaves.ru
 aniworld.to
+ankergames.net
 annas-archive.gl
 apkpure.com
 apkpure.net
@@ -117,7 +117,6 @@ fon.bet
 fotostrana.ru
 gamemania.co.ke
 ganamosonline.com
-getmodsapk.com
 gibiru.com
 gigablast.com
 gigablast.io
@@ -145,7 +144,6 @@ javmix.tv
 jkanime.net
 juan365.com
 juegosonce.es
-jugabet.cl
 jumpjump.io
 kalshi.com
 kdreams.jp
