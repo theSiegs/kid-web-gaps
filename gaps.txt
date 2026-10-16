@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-10-15: 456 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-16: 454 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -41,6 +41,7 @@ atg.se
 ay267.com
 baidu.com
 beezboo.com
+bet30.fans
 bet365.com
 bet365.it
 bet88.ph
@@ -73,8 +74,6 @@ boomle.com
 bsky.app
 caliente.mx
 casinoplus.com.ph
-cinecalidad.am
-coolrom.com
 crowncoinscasino.com
 croxyproxy.com
 crystalbet.com
@@ -142,6 +141,7 @@ javbus.com
 javlibrary.com
 javmix.tv
 jkanime.net
+joinmastodon.org
 juan365.com
 juegosonce.es
 jumpjump.io
@@ -172,7 +172,6 @@ lycos.com
 m.me
 mangafire.to
 mastodon.social
-melbetegypt.com
 messenger.com
 metacrawler.com
 metager.de
@@ -431,7 +430,6 @@ vimm.net
 vk.com
 vk.ru
 vkontakte.ru
-wco.tv
 webcrawler.com
 websearch.excite.co.jp
 weebcentral.com
