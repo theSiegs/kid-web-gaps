@@ -51,6 +51,7 @@ localto.net  # enterprise/school VPN or dev tool, not a kid workaround
 mail.ru  # not social media for a kid filter (tech blog / email portal / jobs) - decide
 mundodeportivo.com  # false positive: legitimate site
 mycdn.me  # CDN / API / tracking host of a social network (not navigated)
+netbird.io  # AI: Infrastructure tool used for virtual private networking.
 ngrok.com  # enterprise/school VPN or dev tool, not a kid workaround
 ngrok.io  # enterprise/school VPN or dev tool, not a kid workaround
 okcdn.ru  # CDN / API / tracking host of a social network (not navigated)
