@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-10-19: 458 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-20: 460 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -385,7 +385,6 @@ searxng.cups.moe
 searxng.diadz.de
 searxng.nicfab.eu
 searxng.no-logs.com
-sec-tunnel.com
 seeks.hsbp.org
 sisal.it
 skyn3t.in
@@ -415,6 +414,8 @@ szerencsejatek.hu
 takarakuji-official.jp
 takbet.com
 thepiratebay.org
+threads.com
+threads.net
 tiktok.com
 timdor.noip.me
 tippmix.hu
@@ -424,6 +425,7 @@ tracker.cl
 triunfobet.com
 trovu.komun.org
 truthsocial.com
+tuazar.com
 tumblr.com
 twitter.com
 uakinogo.io
