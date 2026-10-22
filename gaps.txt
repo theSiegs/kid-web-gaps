@@ -1,9 +1,10 @@
-# kid-web-gaps 2026-10-21: 460 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-22: 464 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
 123moviesfree.net
 1337x.to
+1jugarbet.com
 4chan.org
 4pda.to
 500px.com
@@ -58,6 +59,7 @@ betflag.it
 betika.com
 betking.com
 betmexico.mx
+betpawa.bj
 betpawa.cd
 betpawa.cm
 betpawa.co.tz
@@ -168,6 +170,7 @@ lk21official.cc
 lookmovie2.to
 loteriadehoy.com
 loteriasyapuestas.es
+lotoven.com
 lotteryusa.com
 lottomatica.it
 lukol.com
@@ -213,6 +216,7 @@ nova.rambler.ru
 nustargame.com
 nyaa.si
 o5.gg
+oasisnet.app
 odibets.com
 odysee.com
 offtheradar.info
