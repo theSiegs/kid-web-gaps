@@ -1,9 +1,10 @@
-# kid-web-gaps 2026-10-26: 460 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-27: 460 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
 123moviesfree.net
 1337x.to
+1go.plus
 1jugarbet.com
 4chan.org
 4pda.to
@@ -53,7 +54,6 @@ betano.pe
 betcity.by
 betcity.ru
 betclic.ci
-betfair.com
 betflag.it
 betika.com
 betking.com
