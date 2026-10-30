@@ -1,10 +1,9 @@
-# kid-web-gaps 2026-10-29: 460 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-30: 457 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
 123moviesfree.net
 1337x.to
-1go.plus
 1jugarbet.com
 4chan.org
 4pda.to
@@ -41,7 +40,6 @@ apuestatotal.com
 archiveofourown.org
 arenaplus.ph
 arionplay.com
-atg.se
 ay267.com
 baidu.com
 beezboo.com
@@ -252,7 +250,6 @@ ptgaming.ph
 publictracker.xyz
 pump.fun
 quora.com
-qxbroker.com
 recherche.aol.fr
 redd.it
 reddit.com
