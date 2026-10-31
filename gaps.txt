@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-10-30: 457 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-10-31: 454 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -42,14 +42,12 @@ arenaplus.ph
 arionplay.com
 ay267.com
 baidu.com
-beezboo.com
 bet30.fans
 bet365.com
 bet365.it
 bet88.ph
 bet9ja.com
 betano.pe
-betcity.by
 betcity.ru
 betclic.ci
 betflag.it
@@ -381,7 +379,6 @@ searx.zdechov.net
 searxng.biz
 searxng.canine.tools
 searxng.cups.moe
-searxng.diadz.de
 searxng.nicfab.eu
 searxng.no-logs.com
 seeks.hsbp.org
