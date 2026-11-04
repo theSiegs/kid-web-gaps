@@ -100,3 +100,4 @@ x-cdn-static.com  # infrastructure / CDN / random host (not a site)
 xbox-dns.ru  # DNS resolver / DoH endpoint (not a site)
 yg5sjx5kzy.com  # infrastructure / CDN / random host (not a site)
 zijieapi.com  # CDN / API / tracking host of a social network (not navigated)
+zwyr157wwiu6eior.com  # AI: Infrastructure hostname, not a direct navigable user website.
