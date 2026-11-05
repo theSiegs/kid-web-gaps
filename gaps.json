@@ -6,57 +6,57 @@
  },
  "123moviesfree.net": {
   "category": "anti.piracy",
-  "rank": 8502,
+  "rank": 8510,
   "reason": "reviewed"
  },
  "1337x.to": {
   "category": "anti.piracy",
-  "rank": 5262,
+  "rank": 5256,
   "reason": "reviewed"
  },
  "1jugarbet.com": {
   "category": "gambling.mini",
-  "rank": 9935,
+  "rank": 9944,
   "reason": "AI: Active online gambling website targeting users."
  },
  "4chan.org": {
   "category": "social",
-  "rank": 5736,
+  "rank": 5712,
   "reason": "reviewed"
  },
  "4pda.to": {
   "category": "anti.piracy",
-  "rank": 5243,
+  "rank": 5273,
   "reason": "reviewed"
  },
  "500px.com": {
   "category": "social",
-  "rank": 3839,
+  "rank": 3823,
   "reason": "reviewed"
  },
  "5movierulz.kitchen": {
   "category": "anti.piracy",
-  "rank": 5178,
+  "rank": 5834,
   "reason": "reviewed"
  },
  "5movierulz.pictures": {
   "category": "anti.piracy",
-  "rank": 5418,
+  "rank": 6129,
   "reason": "reviewed"
  },
  "5movierulz.plumbing": {
   "category": "anti.piracy",
-  "rank": 5392,
+  "rank": 6094,
   "reason": "reviewed"
  },
  "5movierulz.university": {
   "category": "anti.piracy",
-  "rank": 2286,
+  "rank": 2214,
   "reason": "AI: Active piracy site distributing unauthorized movies."
  },
  "5movierulz.ventures": {
   "category": "anti.piracy",
-  "rank": 2287,
+  "rank": 2215,
   "reason": "AI: Piracy domain hosting illegal video content."
  },
  "5play.org": {
@@ -66,32 +66,32 @@
  },
  "789bingo.com": {
   "category": "gambling.mini",
-  "rank": 9435,
+  "rank": 9438,
   "reason": "reviewed"
  },
  "99xo4.com": {
   "category": "gambling.mini",
-  "rank": 9654,
+  "rank": 9670,
   "reason": "reviewed"
  },
  "9gag.com": {
   "category": "social",
-  "rank": 5874,
+  "rank": 5842,
   "reason": "reviewed"
  },
  "9mod.com": {
   "category": "anti.piracy",
-  "rank": 5009,
+  "rank": 5022,
   "reason": "reviewed: modded APKs"
  },
  "adguard-vpn.online": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 1975,
+  "rank": 1988,
   "reason": "reviewed"
  },
  "afun.mx": {
   "category": "gambling.mini",
-  "rank": 9482,
+  "rank": 9490,
   "reason": "reviewed"
  },
  "alltheinternet.com": {
@@ -101,102 +101,102 @@
  },
  "allwyn.cz": {
   "category": "gambling.mini",
-  "rank": 8625,
+  "rank": 8653,
   "reason": "reviewed"
  },
  "an1.com": {
   "category": "anti.piracy",
-  "rank": 1660,
+  "rank": 1663,
   "reason": "reviewed: modded APKs"
  },
  "andisearch.com": {
   "category": "nosafesearch",
-  "rank": 222529,
+  "rank": 222046,
   "reason": "reviewed"
  },
  "anikoto.cz": {
   "category": "anti.piracy",
-  "rank": 8802,
+  "rank": 8798,
   "reason": "reviewed"
  },
  "anikototv.to": {
   "category": "anti.piracy",
-  "rank": 7194,
+  "rank": 7196,
   "reason": "reviewed"
  },
  "animepahe.pw": {
   "category": "anti.piracy",
-  "rank": 7422,
+  "rank": 7444,
   "reason": "reviewed"
  },
  "aniwaves.ru": {
   "category": "anti.piracy",
-  "rank": 7205,
+  "rank": 7211,
   "reason": "reviewed"
  },
  "aniworld.to": {
   "category": "anti.piracy",
-  "rank": 8356,
+  "rank": 8366,
   "reason": "reviewed"
  },
  "ankergames.net": {
   "category": "anti.piracy",
-  "rank": 8931,
+  "rank": 8935,
   "reason": "AI: Piracy site hosting unauthorized video game downloads."
  },
  "annas-archive.gl": {
   "category": "anti.piracy",
-  "rank": 7793,
+  "rank": 7800,
   "reason": "reviewed"
  },
  "apkpure.com": {
   "category": "anti.piracy",
-  "rank": 1680,
+  "rank": 1488,
   "reason": "reviewed: KEY: sideload app store bypasses FL app approval"
  },
  "apkpure.net": {
   "category": "anti.piracy",
-  "rank": 5061,
+  "rank": 5067,
   "reason": "reviewed: KEY: sideload app store"
  },
  "apkvision.org": {
   "category": "anti.piracy",
-  "rank": 8304,
+  "rank": 8301,
   "reason": "reviewed"
  },
  "aptoide.com": {
   "category": "anti.piracy",
-  "rank": 6328,
+  "rank": 6352,
   "reason": "reviewed: KEY: sideload app store"
  },
  "apuestasroyal.com": {
   "category": "gambling.mini",
-  "rank": 9277,
+  "rank": 9275,
   "reason": "reviewed"
  },
  "apuestatotal.com": {
   "category": "gambling.mini",
-  "rank": 9115,
+  "rank": 9113,
   "reason": "reviewed"
  },
  "archiveofourown.org": {
   "category": "always-block",
-  "rank": 1049,
+  "rank": 1048,
   "reason": "fan-fiction archive with many Explicit-rated works, no age check"
  },
  "arenaplus.ph": {
   "category": "gambling.mini",
-  "rank": 9510,
+  "rank": 9520,
   "reason": "reviewed"
  },
  "arionplay.com": {
   "category": "gambling.mini",
-  "rank": 1681,
+  "rank": 1684,
   "reason": "reviewed"
  },
  "ay267.com": {
   "category": "gambling.mini",
-  "rank": 1228,
+  "rank": 1230,
   "reason": "reviewed"
  },
  "baidu.com": {
@@ -206,97 +206,92 @@
  },
  "bet30.fans": {
   "category": "gambling.mini",
-  "rank": 9796,
+  "rank": 9797,
   "reason": "AI: Active gambling site accessible for navigation."
  },
  "bet365.com": {
   "category": "gambling.mini",
-  "rank": 1851,
+  "rank": 1824,
   "reason": "reviewed"
  },
  "bet365.it": {
   "category": "gambling.mini",
-  "rank": 9184,
+  "rank": 9183,
   "reason": "reviewed"
  },
  "bet88.ph": {
   "category": "gambling.mini",
-  "rank": 8817,
+  "rank": 8827,
   "reason": "reviewed"
  },
  "bet9ja.com": {
   "category": "gambling.mini",
-  "rank": 7160,
+  "rank": 7178,
   "reason": "reviewed"
  },
  "betano.pe": {
   "category": "gambling.mini",
-  "rank": 1698,
+  "rank": 1699,
   "reason": "reviewed"
  },
  "betcity.ru": {
   "category": "gambling.mini",
-  "rank": 4543,
+  "rank": 4779,
   "reason": "reviewed"
  },
  "betclic.ci": {
   "category": "gambling.mini",
-  "rank": 9779,
+  "rank": 9782,
   "reason": "reviewed"
  },
  "betflag.it": {
   "category": "gambling.mini",
-  "rank": 9067,
+  "rank": 9066,
   "reason": "reviewed"
  },
  "betika.com": {
   "category": "gambling.mini",
-  "rank": 1615,
+  "rank": 1616,
   "reason": "reviewed"
  },
  "betking.com": {
   "category": "gambling.mini",
-  "rank": 1715,
+  "rank": 1716,
   "reason": "reviewed"
  },
  "betmexico.mx": {
   "category": "gambling.mini",
-  "rank": 9056,
+  "rank": 9044,
   "reason": "reviewed"
- },
- "betpawa.bj": {
-  "category": "gambling.mini",
-  "rank": 9992,
-  "reason": "AI: Active regional sports betting and gambling site."
  },
  "betpawa.cd": {
   "category": "gambling.mini",
-  "rank": 9835,
+  "rank": 9847,
   "reason": "reviewed"
  },
  "betpawa.cm": {
   "category": "gambling.mini",
-  "rank": 2132,
+  "rank": 2073,
   "reason": "reviewed"
  },
  "betpawa.co.tz": {
   "category": "gambling.mini",
-  "rank": 2126,
+  "rank": 2068,
   "reason": "reviewed"
  },
  "betpawa.co.zm": {
   "category": "gambling.mini",
-  "rank": 9867,
+  "rank": 9880,
   "reason": "reviewed"
  },
  "betpawa.com": {
   "category": "gambling.mini",
-  "rank": 2097,
+  "rank": 2048,
   "reason": "reviewed"
  },
  "betpawa.mw": {
   "category": "gambling.mini",
-  "rank": 9874,
+  "rank": 9887,
   "reason": "AI: Gambling website directly accessible for child navigation."
  },
  "betpawa.ug": {
@@ -306,37 +301,37 @@
  },
  "betway.co.mz": {
   "category": "gambling.mini",
-  "rank": 9128,
+  "rank": 9125,
   "reason": "reviewed"
  },
  "betway.co.za": {
   "category": "gambling.mini",
-  "rank": 1475,
+  "rank": 1476,
   "reason": "reviewed"
  },
  "bingoplus.com": {
   "category": "gambling.mini",
-  "rank": 1635,
+  "rank": 1637,
   "reason": "reviewed"
  },
  "bittorrent.com": {
   "category": "anti.piracy",
-  "rank": 5408,
+  "rank": 5415,
   "reason": "reviewed"
  },
  "blackle.com": {
   "category": "nosafesearch",
-  "rank": 259984,
+  "rank": 260505,
   "reason": "reviewed"
  },
  "blockaway.net": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 9281,
+  "rank": 9286,
   "reason": "reviewed: KEY: web proxy"
  },
  "bollyflix.free": {
   "category": "anti.piracy",
-  "rank": 5394,
+  "rank": 6096,
   "reason": "reviewed"
  },
  "boomle.com": {
@@ -346,57 +341,57 @@
  },
  "bsky.app": {
   "category": "social",
-  "rank": 387,
+  "rank": 385,
   "reason": "reviewed"
  },
  "bsky.social": {
   "category": "social",
-  "rank": 9979,
+  "rank": 9898,
   "reason": "AI: Social network platform that should be blocked for children."
  },
  "caliente.mx": {
   "category": "gambling.mini",
-  "rank": 1555,
+  "rank": 1557,
   "reason": "reviewed"
  },
  "casinoplus.com.ph": {
   "category": "gambling.mini",
-  "rank": 1557,
+  "rank": 1560,
   "reason": "reviewed"
  },
  "crowncoinscasino.com": {
   "category": "gambling.mini",
-  "rank": 6742,
+  "rank": 6731,
   "reason": "reviewed"
  },
  "croxyproxy.com": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 1571,
+  "rank": 1574,
   "reason": "reviewed: KEY: web proxy"
  },
  "crystalbet.com": {
   "category": "gambling.mini",
-  "rank": 9633,
+  "rank": 9652,
   "reason": "reviewed"
  },
  "cv666.net": {
   "category": "gambling.mini",
-  "rank": 9233,
+  "rank": 9237,
   "reason": "reviewed"
  },
  "demonii.com": {
   "category": "anti.piracy",
-  "rank": 5449,
+  "rank": 5422,
   "reason": "reviewed"
  },
  "dhlottery.co.kr": {
   "category": "gambling.mini",
-  "rank": 9388,
+  "rank": 9380,
   "reason": "reviewed"
  },
  "discord.com": {
   "category": "social",
-  "rank": 188,
+  "rank": 187,
   "reason": "reviewed"
  },
  "discord.gg": {
@@ -406,32 +401,32 @@
  },
  "discordapp.com": {
   "category": "social",
-  "rank": 811,
+  "rank": 813,
   "reason": "reviewed"
  },
  "dler.org": {
   "category": "anti.piracy",
-  "rank": 5613,
+  "rank": 5579,
   "reason": "reviewed"
  },
  "dogpile.com": {
   "category": "nosafesearch",
-  "rank": 26553,
+  "rank": 26639,
   "reason": "reviewed"
  },
  "douban.com": {
   "category": "social",
-  "rank": 2480,
+  "rank": 2478,
   "reason": "reviewed"
  },
  "douyin.com": {
   "category": "social",
-  "rank": 1060,
+  "rank": 1061,
   "reason": "reviewed"
  },
  "draftkings.com": {
   "category": "gambling.mini",
-  "rank": 5109,
+  "rank": 5099,
   "reason": "reviewed"
  },
  "dynabyte.ca": {
@@ -441,7 +436,7 @@
  },
  "dzen.ru": {
   "category": "social",
-  "rank": 29,
+  "rank": 31,
   "reason": "reviewed"
  },
  "e-hentai.org": {
@@ -451,27 +446,27 @@
  },
  "ecuabet.com": {
   "category": "gambling.mini",
-  "rank": 9480,
+  "rank": 9486,
   "reason": "reviewed"
  },
  "egydead.live": {
   "category": "anti.piracy",
-  "rank": 9292,
+  "rank": 9287,
   "reason": "reviewed"
  },
  "eksisozluk.com": {
   "category": "social",
-  "rank": 6605,
+  "rank": 6579,
   "reason": "reviewed"
  },
  "elephantbet.co.ao": {
   "category": "gambling.mini",
-  "rank": 9820,
+  "rank": 9831,
   "reason": "AI: Active online gambling platform."
  },
  "elephantbet.co.mz": {
   "category": "gambling.mini",
-  "rank": 9853,
+  "rank": 9861,
   "reason": "reviewed"
  },
  "eulie.de": {
@@ -481,12 +476,12 @@
  },
  "evo-games.com": {
   "category": "gambling.mini",
-  "rank": 1457,
+  "rank": 1458,
   "reason": "reviewed"
  },
  "expressvpn.com": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 3878,
+  "rank": 3809,
   "reason": "reviewed"
  },
  "facebook.com": {
@@ -496,57 +491,57 @@
  },
  "fanduel.com": {
   "category": "gambling.mini",
-  "rank": 2354,
+  "rank": 2359,
   "reason": "reviewed"
  },
  "fb.com": {
   "category": "social",
-  "rank": 709,
+  "rank": 707,
   "reason": "reviewed"
  },
  "fb.me": {
   "category": "social",
-  "rank": 1251,
+  "rank": 1247,
   "reason": "reviewed"
  },
  "fb.watch": {
   "category": "social",
-  "rank": 1930,
+  "rank": 1934,
   "reason": "reviewed"
  },
  "fdj.fr": {
   "category": "gambling.mini",
-  "rank": 8236,
+  "rank": 8240,
   "reason": "reviewed"
  },
  "fdown.net": {
   "category": "anti.piracy",
-  "rank": 1376,
+  "rank": 1378,
   "reason": "reviewed"
  },
  "filmyfly.bingo": {
   "category": "anti.piracy",
-  "rank": 2283,
+  "rank": 2212,
   "reason": "AI: Navigable piracy website offering pirated films."
  },
  "filmyfly.fail": {
   "category": "anti.piracy",
-  "rank": 5395,
+  "rank": 6097,
   "reason": "reviewed"
  },
  "filmyfly.green": {
   "category": "anti.piracy",
-  "rank": 3810,
+  "rank": 4067,
   "reason": "reviewed"
  },
  "filmyfly.sale": {
   "category": "anti.piracy",
-  "rank": 2284,
+  "rank": 2218,
   "reason": "AI: Piracy site providing unauthorized movie downloads."
  },
  "filmyfly.soy": {
   "category": "anti.piracy",
-  "rank": 5389,
+  "rank": 6091,
   "reason": "reviewed"
  },
  "find.xenorio.xyz": {
@@ -556,42 +551,42 @@
  },
  "fireball.de": {
   "category": "nosafesearch",
-  "rank": 198177,
+  "rank": 198136,
   "reason": "reviewed"
  },
  "fitgirl-repacks.site": {
   "category": "anti.piracy",
-  "rank": 8089,
+  "rank": 8100,
   "reason": "reviewed"
  },
  "fon.bet": {
   "category": "gambling.mini",
-  "rank": 6723,
+  "rank": 6734,
   "reason": "reviewed"
  },
  "fotostrana.ru": {
   "category": "social",
-  "rank": 4913,
+  "rank": 4945,
   "reason": "reviewed"
  },
  "gamemania.co.ke": {
   "category": "gambling.mini",
-  "rank": 9590,
+  "rank": 9601,
   "reason": "reviewed"
  },
  "ganamosonline.com": {
   "category": "gambling.mini",
-  "rank": 9656,
+  "rank": 9674,
   "reason": "reviewed"
  },
  "gibiru.com": {
   "category": "nosafesearch",
-  "rank": 239648,
+  "rank": 240730,
   "reason": "reviewed"
  },
  "gigablast.com": {
   "category": "nosafesearch",
-  "rank": 141583,
+  "rank": 142190,
   "reason": "reviewed"
  },
  "gigablast.io": {
@@ -611,17 +606,17 @@
  },
  "gogoroyal.com": {
   "category": "gambling.mini",
-  "rank": 9199,
+  "rank": 9188,
   "reason": "reviewed"
  },
  "goldbet.it": {
   "category": "gambling.mini",
-  "rank": 8410,
+  "rank": 8422,
   "reason": "reviewed"
  },
  "goojara.to": {
   "category": "anti.piracy",
-  "rank": 1647,
+  "rank": 1649,
   "reason": "reviewed"
  },
  "grep.vim.wtf": {
@@ -631,7 +626,7 @@
  },
  "gzone.ph": {
   "category": "gambling.mini",
-  "rank": 8875,
+  "rank": 8879,
   "reason": "reviewed"
  },
  "h4g3z1-nosafesearch.web.app": {
@@ -651,27 +646,27 @@
  },
  "hola.org": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 5353,
+  "rank": 5359,
   "reason": "reviewed: VPN/proxy extension"
  },
  "hollywoodbets.net": {
   "category": "gambling.mini",
-  "rank": 1405,
+  "rank": 1410,
   "reason": "reviewed"
  },
  "hsselite.com": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 7529,
+  "rank": 7553,
   "reason": "reviewed"
  },
  "igram.world": {
   "category": "anti.piracy",
-  "rank": 9211,
+  "rank": 9213,
   "reason": "reviewed"
  },
  "indown.io": {
   "category": "anti.piracy",
-  "rank": 1695,
+  "rank": 1697,
   "reason": "reviewed"
  },
  "instagram.com": {
@@ -681,77 +676,77 @@
  },
  "interbet.co.za": {
   "category": "gambling.mini",
-  "rank": 9757,
+  "rank": 9751,
   "reason": "reviewed"
  },
  "itorrents-igruha.org": {
   "category": "anti.piracy",
-  "rank": 9375,
+  "rank": 9368,
   "reason": "reviewed"
  },
  "javbus.com": {
   "category": "anti.piracy",
-  "rank": 8550,
+  "rank": 8559,
   "reason": "reviewed"
  },
  "javlibrary.com": {
   "category": "anti.piracy",
-  "rank": 8376,
+  "rank": 8382,
   "reason": "reviewed"
  },
  "javmix.tv": {
   "category": "anti.piracy",
-  "rank": 9518,
+  "rank": 9530,
   "reason": "reviewed"
  },
  "jkanime.net": {
   "category": "anti.piracy",
-  "rank": 8564,
+  "rank": 8573,
   "reason": "reviewed"
  },
  "joinmastodon.org": {
   "category": "social",
-  "rank": 6457,
+  "rank": 6450,
   "reason": "AI: Social network homepage accessible to children."
  },
  "juan365.com": {
   "category": "gambling.mini",
-  "rank": 9755,
+  "rank": 9756,
   "reason": "reviewed"
  },
  "juegosonce.es": {
   "category": "gambling.mini",
-  "rank": 9427,
+  "rank": 9424,
   "reason": "reviewed"
  },
  "jumpjump.io": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 4061,
+  "rank": 4121,
   "reason": "reviewed"
  },
  "kalshi.com": {
   "category": "gambling.mini",
-  "rank": 7391,
+  "rank": 7338,
   "reason": "reviewed: prediction market"
  },
  "kdreams.jp": {
   "category": "gambling.mini",
-  "rank": 9241,
+  "rank": 9250,
   "reason": "reviewed"
  },
  "kinogo.ec": {
   "category": "anti.piracy",
-  "rank": 8202,
+  "rank": 8216,
   "reason": "reviewed"
  },
  "kinogo.online": {
   "category": "anti.piracy",
-  "rank": 8173,
+  "rank": 8189,
   "reason": "reviewed"
  },
  "ladbrokes.com": {
   "category": "gambling.mini",
-  "rank": 5452,
+  "rank": 5497,
   "reason": "reviewed"
  },
  "librex.devol.it": {
@@ -776,67 +771,67 @@
  },
  "like-video.com": {
   "category": "social",
-  "rank": 7564,
+  "rank": 7640,
   "reason": "reviewed"
  },
  "like.video": {
   "category": "social",
-  "rank": 2914,
+  "rank": 2929,
   "reason": "reviewed"
  },
  "likee.video": {
   "category": "social",
-  "rank": 6024,
+  "rank": 6028,
   "reason": "reviewed"
  },
  "lin.ee": {
   "category": "social",
-  "rank": 2244,
+  "rank": 2279,
   "reason": "reviewed"
  },
  "line.me": {
   "category": "social",
-  "rank": 426,
+  "rank": 427,
   "reason": "reviewed"
  },
  "liteapks.com": {
   "category": "anti.piracy",
-  "rank": 1495,
+  "rank": 1496,
   "reason": "reviewed: modded APKs"
  },
  "lk21official.cc": {
   "category": "anti.piracy",
-  "rank": 1617,
+  "rank": 1622,
   "reason": "reviewed"
  },
  "lookmovie2.to": {
   "category": "anti.piracy",
-  "rank": 1306,
+  "rank": 1305,
   "reason": "reviewed"
  },
  "loteriadehoy.com": {
   "category": "gambling.mini",
-  "rank": 1749,
+  "rank": 1751,
   "reason": "reviewed"
  },
  "loteriasyapuestas.es": {
   "category": "gambling.mini",
-  "rank": 8603,
+  "rank": 8611,
   "reason": "reviewed"
  },
  "lotoven.com": {
   "category": "gambling.mini",
-  "rank": 9939,
+  "rank": 9949,
   "reason": "AI: Online gambling and lottery web platform."
  },
  "lotteryusa.com": {
   "category": "gambling.mini",
-  "rank": 8945,
+  "rank": 8944,
   "reason": "reviewed"
  },
  "lottomatica.it": {
   "category": "gambling.mini",
-  "rank": 8655,
+  "rank": 8659,
   "reason": "reviewed"
  },
  "lukol.com": {
@@ -851,42 +846,42 @@
  },
  "lycos.com": {
   "category": "nosafesearch",
-  "rank": 5102,
+  "rank": 5105,
   "reason": "reviewed"
  },
  "m.me": {
   "category": "social",
-  "rank": 2004,
+  "rank": 2012,
   "reason": "reviewed"
  },
  "mangafire.to": {
   "category": "anti.piracy",
-  "rank": 7238,
+  "rank": 7261,
   "reason": "reviewed"
  },
  "mastodon.social": {
   "category": "social",
-  "rank": 2711,
+  "rank": 2708,
   "reason": "reviewed"
  },
  "messenger.com": {
   "category": "social",
-  "rank": 2238,
+  "rank": 2273,
   "reason": "reviewed"
  },
  "metacrawler.com": {
   "category": "nosafesearch",
-  "rank": 51936,
+  "rank": 51955,
   "reason": "reviewed"
  },
  "metager.de": {
   "category": "nosafesearch",
-  "rank": 95833,
+  "rank": 95682,
   "reason": "reviewed"
  },
  "metager.org": {
   "category": "nosafesearch",
-  "rank": 220411,
+  "rank": 221596,
   "reason": "reviewed"
  },
  "metager3.de": {
@@ -906,7 +901,7 @@
  },
  "micasino.com": {
   "category": "gambling.mini",
-  "rank": 9245,
+  "rank": 9253,
   "reason": "reviewed"
  },
  "mijisou.com": {
@@ -916,22 +911,22 @@
  },
  "millionshort.com": {
   "category": "nosafesearch",
-  "rank": 868497,
+  "rank": 874737,
   "reason": "reviewed"
  },
  "mirtesen.ru": {
   "category": "social",
-  "rank": 2905,
+  "rank": 2934,
   "reason": "reviewed"
  },
  "misli.az": {
   "category": "gambling.mini",
-  "rank": 8976,
+  "rank": 8981,
   "reason": "reviewed"
  },
  "mojeek.com": {
   "category": "nosafesearch",
-  "rank": 33244,
+  "rank": 33064,
   "reason": "reviewed"
  },
  "monstercrawler.com": {
@@ -941,72 +936,72 @@
  },
  "moviezda.com": {
   "category": "anti.piracy",
-  "rank": 2277,
+  "rank": 2206,
   "reason": "AI: Piracy streaming site directly accessed by users."
  },
  "moviezda.net": {
   "category": "anti.piracy",
-  "rank": 2262,
+  "rank": 2189,
   "reason": "AI: Mirror domain for piracy streaming."
  },
  "mp4moviez.rip": {
   "category": "anti.piracy",
-  "rank": 5400,
+  "rank": 6102,
   "reason": "reviewed"
  },
  "msport.com": {
   "category": "gambling.mini",
-  "rank": 7592,
+  "rank": 7610,
   "reason": "reviewed"
  },
  "mullvad.net": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 6263,
+  "rank": 6245,
   "reason": "reviewed"
  },
  "musical.ly": {
   "category": "social",
-  "rank": 5231,
+  "rank": 5153,
   "reason": "reviewed"
  },
  "mwmbl.org": {
   "category": "nosafesearch",
-  "rank": 983462,
+  "rank": 975989,
   "reason": "reviewed"
  },
  "mycima.cc": {
   "category": "anti.piracy",
-  "rank": 9209,
+  "rank": 9214,
   "reason": "reviewed"
  },
  "mysterium.network": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 3886,
+  "rank": 3859,
   "reason": "reviewed"
  },
  "ncore.pro": {
   "category": "anti.piracy",
-  "rank": 8826,
+  "rank": 8829,
   "reason": "reviewed"
  },
  "neeva.com": {
   "category": "nosafesearch",
-  "rank": 228919,
+  "rank": 226026,
   "reason": "reviewed"
  },
  "nesine.com": {
   "category": "gambling.mini",
-  "rank": 1427,
+  "rank": 1432,
   "reason": "reviewed"
  },
  "netkeiba.com": {
   "category": "gambling.mini",
-  "rank": 1301,
+  "rank": 1303,
   "reason": "reviewed"
  },
  "nhentai.net": {
   "category": "anti.piracy",
-  "rank": 4413,
+  "rank": 4414,
   "reason": "reviewed"
  },
  "nibblehole.com": {
@@ -1021,12 +1016,12 @@
  },
  "ninogaming.com": {
   "category": "gambling.mini",
-  "rank": 9676,
+  "rank": 9679,
   "reason": "reviewed"
  },
  "nordvpn.com": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 2559,
+  "rank": 2562,
   "reason": "reviewed"
  },
  "nova.rambler.ru": {
@@ -1036,12 +1031,12 @@
  },
  "nustargame.com": {
   "category": "gambling.mini",
-  "rank": 1620,
+  "rank": 1621,
   "reason": "reviewed"
  },
  "nyaa.si": {
   "category": "anti.piracy",
-  "rank": 6232,
+  "rank": 6230,
   "reason": "reviewed"
  },
  "o5.gg": {
@@ -1051,17 +1046,17 @@
  },
  "oasisnet.app": {
   "category": "gambling.mini",
-  "rank": 9940,
+  "rank": 9950,
   "reason": "AI: Active online gambling application website."
  },
  "odibets.com": {
   "category": "gambling.mini",
-  "rank": 9039,
+  "rank": 9031,
   "reason": "reviewed"
  },
  "odysee.com": {
   "category": "social",
-  "rank": 9208,
+  "rank": 9233,
   "reason": "AI: Video social network with minimal moderation."
  },
  "offtheradar.info": {
@@ -1071,22 +1066,22 @@
  },
  "ok.ru": {
   "category": "social",
-  "rank": 335,
+  "rank": 333,
   "reason": "reviewed"
  },
  "okbet.com": {
   "category": "gambling.mini",
-  "rank": 9059,
+  "rank": 9088,
   "reason": "reviewed"
  },
  "onlyfans.com": {
   "category": "social",
-  "rank": 830,
+  "rank": 826,
   "reason": "reviewed"
  },
  "openworlds.info": {
   "category": "nosafesearch",
-  "rank": 445736,
+  "rank": 452220,
   "reason": "reviewed"
  },
  "oscobo.com": {
@@ -1096,7 +1091,7 @@
  },
  "paddypower.com": {
   "category": "gambling.mini",
-  "rank": 5810,
+  "rank": 5956,
   "reason": "reviewed"
  },
  "peekier.com": {
@@ -1106,17 +1101,17 @@
  },
  "pikabu.ru": {
   "category": "social",
-  "rank": 889,
+  "rank": 895,
   "reason": "reviewed"
  },
  "pin.it": {
   "category": "social",
-  "rank": 4465,
+  "rank": 4463,
   "reason": "reviewed"
  },
  "pinterest.co.uk": {
   "category": "social",
-  "rank": 6086,
+  "rank": 6071,
   "reason": "reviewed"
  },
  "pinterest.com": {
@@ -1126,7 +1121,7 @@
  },
  "pinterest.de": {
   "category": "social",
-  "rank": 9419,
+  "rank": 9425,
   "reason": "reviewed"
  },
  "pinterestpresents.com": {
@@ -1136,52 +1131,52 @@
  },
  "pixelchat.ai": {
   "category": "always-block",
-  "rank": 413161,
+  "rank": 413234,
   "reason": "AI character role-play chat, rated 18+"
  },
  "planetwin365.it": {
   "category": "gambling.mini",
-  "rank": 9101,
+  "rank": 9112,
   "reason": "reviewed"
  },
  "platinmods.com": {
   "category": "anti.piracy",
-  "rank": 8436,
+  "rank": 8442,
   "reason": "reviewed: modded APKs"
  },
  "playmods.net": {
   "category": "anti.piracy",
-  "rank": 8167,
+  "rank": 8190,
   "reason": "reviewed: modded APKs"
  },
  "pocketoption.com": {
   "category": "gambling.mini",
-  "rank": 7896,
+  "rank": 7903,
   "reason": "reviewed: binary options (gambling-like)"
  },
  "polymarket.com": {
   "category": "gambling.mini",
-  "rank": 2503,
+  "rank": 2499,
   "reason": "reviewed: prediction market"
  },
  "pornolab.net": {
   "category": "anti.piracy",
-  "rank": 8035,
+  "rank": 8046,
   "reason": "reviewed"
  },
  "premierbet.co.ao": {
   "category": "gambling.mini",
-  "rank": 9741,
+  "rank": 9749,
   "reason": "reviewed"
  },
  "premierbet.com": {
   "category": "gambling.mini",
-  "rank": 8845,
+  "rank": 8850,
   "reason": "reviewed"
  },
  "presearch.com": {
   "category": "nosafesearch",
-  "rank": 47728,
+  "rank": 47037,
   "reason": "reviewed"
  },
  "privacia.org": {
@@ -1191,52 +1186,52 @@
  },
  "privacywall.org": {
   "category": "nosafesearch",
-  "rank": 90671,
+  "rank": 89975,
   "reason": "reviewed"
  },
  "privateinternetaccess.com": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 7673,
+  "rank": 7686,
   "reason": "reviewed"
  },
  "proxyium.com": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 9152,
+  "rank": 9156,
   "reason": "reviewed: KEY: web proxy"
  },
  "proxysite.com": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 7943,
+  "rank": 7961,
   "reason": "reviewed: KEY: web proxy"
  },
  "pscp.tv": {
   "category": "social",
-  "rank": 5138,
+  "rank": 5194,
   "reason": "reviewed"
  },
  "psiphon.ca": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 8622,
+  "rank": 8631,
   "reason": "reviewed: censorship-circumvention VPN"
  },
  "ptgaming.ph": {
   "category": "gambling.mini",
-  "rank": 1661,
+  "rank": 1664,
   "reason": "reviewed"
  },
  "publictracker.xyz": {
   "category": "anti.piracy",
-  "rank": 8910,
+  "rank": 9798,
   "reason": "reviewed"
  },
  "pump.fun": {
   "category": "gambling.mini",
-  "rank": 6496,
+  "rank": 6474,
   "reason": "reviewed: crypto meme gambling"
  },
  "quora.com": {
   "category": "social",
-  "rank": 499,
+  "rank": 502,
   "reason": "reviewed"
  },
  "recherche.aol.fr": {
@@ -1246,12 +1241,12 @@
  },
  "redd.it": {
   "category": "social",
-  "rank": 2137,
+  "rank": 2157,
   "reason": "reviewed"
  },
  "reddit.com": {
   "category": "social",
-  "rank": 106,
+  "rank": 107,
   "reason": "reviewed"
  },
  "retifo.com": {
@@ -1261,17 +1256,17 @@
  },
  "rezka.ag": {
   "category": "anti.piracy",
-  "rank": 7805,
+  "rank": 7819,
   "reason": "reviewed"
  },
  "romsfun.com": {
   "category": "anti.piracy",
-  "rank": 8702,
+  "rank": 8710,
   "reason": "reviewed"
  },
  "romsgames.net": {
   "category": "anti.piracy",
-  "rank": 8815,
+  "rank": 8824,
   "reason": "reviewed"
  },
  "roteserver.de": {
@@ -1281,7 +1276,7 @@
  },
  "rutracker.org": {
   "category": "anti.piracy",
-  "rank": 5351,
+  "rank": 5343,
   "reason": "reviewed"
  },
  "s.tokhmi.xyz": {
@@ -1601,7 +1596,7 @@
  },
  "searchencrypt.com": {
   "category": "nosafesearch",
-  "rank": 376409,
+  "rank": 375138,
   "reason": "reviewed"
  },
  "searx.32bitflo.at": {
@@ -1831,7 +1826,7 @@
  },
  "searx.space": {
   "category": "nosafesearch",
-  "rank": 58100,
+  "rank": 58009,
   "reason": "reviewed"
  },
  "searx.sulu.me": {
@@ -1911,7 +1906,7 @@
  },
  "sisal.it": {
   "category": "gambling.mini",
-  "rank": 7892,
+  "rank": 7918,
   "reason": "reviewed"
  },
  "skyn3t.in": {
@@ -1921,67 +1916,67 @@
  },
  "skyvegas.com": {
   "category": "gambling.mini",
-  "rank": 8554,
+  "rank": 8583,
   "reason": "reviewed"
  },
  "snai.it": {
   "category": "gambling.mini",
-  "rank": 7918,
+  "rank": 7928,
   "reason": "reviewed"
  },
  "snapchat.com": {
   "category": "social",
-  "rank": 158,
+  "rank": 157,
   "reason": "reviewed"
  },
  "snapsave.app": {
   "category": "anti.piracy",
-  "rank": 8773,
+  "rank": 8779,
   "reason": "reviewed"
  },
  "sportpesa.com": {
   "category": "gambling.mini",
-  "rank": 8231,
+  "rank": 8242,
   "reason": "reviewed"
  },
  "sportybet.co.za": {
   "category": "gambling.mini",
-  "rank": 9055,
+  "rank": 9054,
   "reason": "reviewed"
  },
  "sportybet.com": {
   "category": "gambling.mini",
-  "rank": 1390,
+  "rank": 1391,
   "reason": "reviewed"
  },
  "sssinstagram.com": {
   "category": "anti.piracy",
-  "rank": 8797,
+  "rank": 8801,
   "reason": "reviewed"
  },
  "stake.com": {
   "category": "gambling.mini",
-  "rank": 5432,
+  "rank": 5399,
   "reason": "reviewed: crypto casino"
  },
  "steamrip.com": {
   "category": "anti.piracy",
-  "rank": 8754,
+  "rank": 8757,
   "reason": "reviewed"
  },
  "steamunlocked.org": {
   "category": "anti.piracy",
-  "rank": 9064,
+  "rank": 9052,
   "reason": "reviewed"
  },
  "stoiximan.gr": {
   "category": "gambling.mini",
-  "rank": 8344,
+  "rank": 8361,
   "reason": "reviewed"
  },
  "storysaver.net": {
   "category": "anti.piracy",
-  "rank": 8639,
+  "rank": 8643,
   "reason": "reviewed"
  },
  "suche.aol.de": {
@@ -2011,7 +2006,7 @@
  },
  "superbet.ro": {
   "category": "gambling.mini",
-  "rank": 5458,
+  "rank": 5368,
   "reason": "reviewed"
  },
  "supersportbet.com": {
@@ -2021,27 +2016,27 @@
  },
  "surfshark.com": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 1915,
+  "rank": 1905,
   "reason": "reviewed"
  },
  "szerencsejatek.hu": {
   "category": "gambling.mini",
-  "rank": 9155,
+  "rank": 9162,
   "reason": "reviewed"
  },
  "takarakuji-official.jp": {
   "category": "gambling.mini",
-  "rank": 3725,
+  "rank": 3968,
   "reason": "reviewed"
  },
  "takbet.com": {
   "category": "gambling.mini",
-  "rank": 8678,
+  "rank": 8686,
   "reason": "reviewed"
  },
  "thepiratebay.org": {
   "category": "anti.piracy",
-  "rank": 5620,
+  "rank": 5589,
   "reason": "reviewed"
  },
  "threads.com": {
@@ -2051,7 +2046,7 @@
  },
  "threads.net": {
   "category": "social",
-  "rank": 1741,
+  "rank": 1742,
   "reason": "AI: Official domain for the Threads social network service."
  },
  "tiktok.com": {
@@ -2066,22 +2061,22 @@
  },
  "tippmix.hu": {
   "category": "gambling.mini",
-  "rank": 9893,
+  "rank": 9903,
   "reason": "reviewed"
  },
  "torproject.org": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 3922,
+  "rank": 3879,
   "reason": "reviewed: Tor"
  },
  "totogaming.am": {
   "category": "gambling.mini",
-  "rank": 9189,
+  "rank": 9176,
   "reason": "reviewed"
  },
  "tracker.cl": {
   "category": "anti.piracy",
-  "rank": 8947,
+  "rank": 9532,
   "reason": "reviewed"
  },
  "triunfobet.com": {
@@ -2096,12 +2091,12 @@
  },
  "truthsocial.com": {
   "category": "social",
-  "rank": 6430,
+  "rank": 6449,
   "reason": "reviewed"
  },
  "tuazar.com": {
   "category": "gambling.mini",
-  "rank": 9926,
+  "rank": 9939,
   "reason": "AI: Online gambling site inappropriate for minors."
  },
  "tumblr.com": {
@@ -2116,27 +2111,27 @@
  },
  "uakinogo.io": {
   "category": "anti.piracy",
-  "rank": 9345,
+  "rank": 9339,
   "reason": "reviewed"
  },
  "urban-vpn.com": {
   "category": "doh-vpn-proxy-bypass",
-  "rank": 8901,
+  "rank": 8904,
   "reason": "reviewed"
  },
  "utorrent.com": {
   "category": "anti.piracy",
-  "rank": 1864,
+  "rank": 1879,
   "reason": "reviewed"
  },
  "veikkaus.fi": {
   "category": "gambling.mini",
-  "rank": 8327,
+  "rank": 8337,
   "reason": "reviewed"
  },
  "videy.co": {
   "category": "anti.piracy",
-  "rank": 6978,
+  "rank": 6970,
   "reason": "reviewed"
  },
  "vk.com": {
@@ -2146,17 +2141,17 @@
  },
  "vk.ru": {
   "category": "social",
-  "rank": 149,
+  "rank": 151,
   "reason": "reviewed"
  },
  "vkontakte.ru": {
   "category": "social",
-  "rank": 1032,
+  "rank": 1059,
   "reason": "reviewed"
  },
  "webcrawler.com": {
   "category": "nosafesearch",
-  "rank": 28856,
+  "rank": 28912,
   "reason": "reviewed"
  },
  "websearch.excite.co.jp": {
@@ -2196,27 +2191,27 @@
  },
  "wiby.me": {
   "category": "nosafesearch",
-  "rank": 146450,
+  "rank": 145164,
   "reason": "reviewed"
  },
  "williamhill.com": {
   "category": "gambling.mini",
-  "rank": 8796,
+  "rank": 9260,
   "reason": "reviewed"
  },
  "win2day.at": {
   "category": "gambling.mini",
-  "rank": 8690,
+  "rank": 8718,
   "reason": "reviewed"
  },
  "winner.bet": {
   "category": "gambling.mini",
-  "rank": 1769,
+  "rank": 1772,
   "reason": "reviewed"
  },
  "wplay.co": {
   "category": "gambling.mini",
-  "rank": 9083,
+  "rank": 9081,
   "reason": "reviewed"
  },
  "wtf.roflcopter.fr": {
@@ -2226,7 +2221,7 @@
  },
  "x.com": {
   "category": "social",
-  "rank": 47,
+  "rank": 48,
   "reason": "reviewed"
  },
  "xo.wtf": {
@@ -2236,37 +2231,37 @@
  },
  "yaplakal.com": {
   "category": "social",
-  "rank": 5852,
+  "rank": 5837,
   "reason": "reviewed"
  },
  "yep.com": {
   "category": "nosafesearch",
-  "rank": 57586,
+  "rank": 57606,
   "reason": "reviewed"
  },
  "yesplay.bet": {
   "category": "gambling.mini",
-  "rank": 8110,
+  "rank": 8127,
   "reason": "reviewed"
  },
  "yippy.com": {
   "category": "nosafesearch",
-  "rank": 43089,
+  "rank": 43143,
   "reason": "reviewed"
  },
  "you.com": {
   "category": "nosafesearch",
-  "rank": 28192,
+  "rank": 28201,
   "reason": "reviewed"
  },
  "zeturf.fr": {
   "category": "gambling.mini",
-  "rank": 8814,
+  "rank": 8825,
   "reason": "reviewed"
  },
  "zhihu.com": {
   "category": "social",
-  "rank": 1206,
+  "rank": 1220,
   "reason": "reviewed"
  },
  "zoek.anchel.nl": {
