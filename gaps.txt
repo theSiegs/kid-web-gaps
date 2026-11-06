@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-11-05: 454 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-06: 452 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -245,7 +245,6 @@ proxysite.com
 pscp.tv
 psiphon.ca
 ptgaming.ph
-publictracker.xyz
 pump.fun
 quora.com
 recherche.aol.fr
@@ -416,7 +415,6 @@ timdor.noip.me
 tippmix.hu
 torproject.org
 totogaming.am
-tracker.cl
 triunfobet.com
 trovu.komun.org
 truthsocial.com
