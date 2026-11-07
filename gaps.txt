@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-11-06: 452 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-07: 450 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -9,7 +9,6 @@
 4pda.to
 500px.com
 5movierulz.kitchen
-5movierulz.pictures
 5movierulz.plumbing
 5movierulz.university
 5movierulz.ventures
@@ -342,7 +341,6 @@ searx.gnu.style
 searx.gotrust.de
 searx.guillaumea.fr
 searx.hardwired.link
-searx.info
 searx.ir
 searx.lavatech.top
 searx.lwhr.xyz
