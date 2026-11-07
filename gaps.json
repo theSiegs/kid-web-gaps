@@ -29,6 +29,11 @@
   "rank": 5345,
   "reason": "reviewed"
  },
+ "4shared.com": {
+  "category": "always-block",
+  "rank": 4055,
+  "reason": "file host"
+ },
  "500px.com": {
   "category": "social",
   "rank": 3822,
@@ -344,6 +349,11 @@
   "rank": 9691,
   "reason": "AI: Social network platform that should be blocked for children."
  },
+ "caesars.com": {
+  "category": "always-block",
+  "rank": 7651,
+  "reason": "casino + hotels"
+ },
  "caliente.mx": {
   "category": "gambling.mini",
   "rank": 1560,
@@ -418,6 +428,11 @@
   "category": "social",
   "rank": 1063,
   "reason": "reviewed"
+ },
+ "douyinliving.com": {
+  "category": "always-block",
+  "rank": 1509,
+  "reason": "live-streaming social"
  },
  "draftkings.com": {
   "category": "gambling.mini",
@@ -558,6 +573,11 @@
   "category": "gambling.mini",
   "rank": 6716,
   "reason": "reviewed"
+ },
+ "forebet.com": {
+  "category": "always-block",
+  "rank": 1510,
+  "reason": "sports predictions, betting-adjacent"
  },
  "fotostrana.ru": {
   "category": "social",
@@ -849,6 +869,11 @@
   "rank": 2097,
   "reason": "reviewed"
  },
+ "mangadex.org": {
+  "category": "always-block",
+  "rank": 5826,
+  "reason": "manga reader, unmoderated adult content"
+ },
  "mangafire.to": {
   "category": "anti.piracy",
   "rank": 7283,
@@ -858,6 +883,21 @@
   "category": "social",
   "rank": 2698,
   "reason": "reviewed"
+ },
+ "mediafire.com": {
+  "category": "always-block",
+  "rank": 749,
+  "reason": "file host"
+ },
+ "mega.co.nz": {
+  "category": "always-block",
+  "rank": 561,
+  "reason": "file host, also piracy"
+ },
+ "mega.nz": {
+  "category": "always-block",
+  "rank": 1896,
+  "reason": "file host, also piracy"
  },
  "messenger.com": {
   "category": "social",
@@ -1223,6 +1263,11 @@
   "category": "social",
   "rank": 503,
   "reason": "reviewed"
+ },
+ "rapidgator.net": {
+  "category": "always-block",
+  "rank": 6430,
+  "reason": "file host"
  },
  "recherche.aol.fr": {
   "category": "nosafesearch",

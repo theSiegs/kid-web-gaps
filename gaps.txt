@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-11-07: 450 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-07: 459 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -7,6 +7,7 @@
 1jugarbet.com
 4chan.org
 4pda.to
+4shared.com
 500px.com
 5movierulz.kitchen
 5movierulz.plumbing
@@ -70,6 +71,7 @@ bollyflix.free
 boomle.com
 bsky.app
 bsky.social
+caesars.com
 caliente.mx
 casinoplus.com.ph
 crowncoinscasino.com
@@ -85,6 +87,7 @@ dler.org
 dogpile.com
 douban.com
 douyin.com
+douyinliving.com
 draftkings.com
 dynabyte.ca
 dzen.ru
@@ -113,6 +116,7 @@ find.xenorio.xyz
 fireball.de
 fitgirl-repacks.site
 fon.bet
+forebet.com
 fotostrana.ru
 gamemania.co.ke
 ganamosonline.com
@@ -171,8 +175,12 @@ lukol.com
 lx.vern.cc
 lycos.com
 m.me
+mangadex.org
 mangafire.to
 mastodon.social
+mediafire.com
+mega.co.nz
+mega.nz
 messenger.com
 metacrawler.com
 metager.de
@@ -246,6 +254,7 @@ psiphon.ca
 ptgaming.ph
 pump.fun
 quora.com
+rapidgator.net
 recherche.aol.fr
 redd.it
 reddit.com
