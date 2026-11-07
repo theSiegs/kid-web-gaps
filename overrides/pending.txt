@@ -1,10 +1,1 @@
 # Awaiting a human decision: move each line to always-block.txt or never-block.txt.
-4shared.com  # new in anti.piracy, not reviewed yet
-caesars.com  # new in gambling.mini, not reviewed yet
-douyinliving.com  # new in social, not reviewed yet
-forebet.com  # new in gambling.mini, not reviewed yet
-mangadex.org  # new in anti.piracy, not reviewed yet
-mediafire.com  # new in anti.piracy, not reviewed yet
-mega.co.nz  # new in anti.piracy, not reviewed yet
-mega.nz  # new in anti.piracy, not reviewed yet
-rapidgator.net  # new in anti.piracy, not reviewed yet

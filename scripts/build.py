@@ -170,7 +170,8 @@ def main() -> int:
 
     published: dict[str, dict] = {}
     for dom, meta in candidates.items():
-        if dom in pending:
+        # A domain a human already decided on (always-block) is published below, never sent back for review
+        if dom in pending or dom in always:
             continue
         if dom in previous:
             published[dom] = {**meta, "reason": prev_meta.get(dom, {}).get("reason", "")}
@@ -187,7 +188,8 @@ def main() -> int:
     for dom, note in always.items():
         published[dom] = {"category": "always-block", "rank": rank.get(dom), "reason": note}
     # A pending domain that no longer appears in any source is dropped from pending
-    pending = {d: n for d, n in pending.items() if d in candidates}
+    # ... and so is one a human has since moved to always-block or never-block
+    pending = {d: n for d, n in pending.items() if d in candidates and d not in always and d not in never}
 
     if len(published) > MAX_DOMAINS:
         keep = sorted(published, key=lambda d: (published[d]["category"] != "always-block", published[d]["rank"] or 10**9))
