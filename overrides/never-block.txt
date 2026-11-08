@@ -46,6 +46,7 @@ keiba.go.jp  # false positive: legitimate site
 licdn.com  # CDN / API / tracking host of a social network (not navigated)
 line-apps.com  # CDN / API / tracking host of a social network (not navigated)
 line-scdn.net  # CDN / API / tracking host of a social network (not navigated)
+line.biz  # AI: Mainstream business portal for Line.
 linkedin.com  # not social media for a kid filter (tech blog / email portal / jobs) - decide
 lnkd.in  # not social media for a kid filter (tech blog / email portal / jobs) - decide
 localto.net  # enterprise/school VPN or dev tool, not a kid workaround

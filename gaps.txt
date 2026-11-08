@@ -1,16 +1,15 @@
-# kid-web-gaps 2026-11-07: 459 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-08: 455 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
 123moviesfree.net
 1337x.to
+1go.plus
 1jugarbet.com
 4chan.org
 4pda.to
 4shared.com
 500px.com
-5movierulz.kitchen
-5movierulz.plumbing
 5movierulz.university
 5movierulz.ventures
 5play.org
@@ -54,6 +53,7 @@ betflag.it
 betika.com
 betking.com
 betmexico.mx
+betpawa.bj
 betpawa.cd
 betpawa.cm
 betpawa.co.tz
@@ -67,7 +67,6 @@ bingoplus.com
 bittorrent.com
 blackle.com
 blockaway.net
-bollyflix.free
 boomle.com
 bsky.app
 bsky.social
@@ -108,10 +107,8 @@ fb.watch
 fdj.fr
 fdown.net
 filmyfly.bingo
-filmyfly.fail
 filmyfly.green
 filmyfly.sale
-filmyfly.soy
 find.xenorio.xyz
 fireball.de
 fitgirl-repacks.site
@@ -197,7 +194,6 @@ mojeek.com
 monstercrawler.com
 moviezda.com
 moviezda.net
-mp4moviez.rip
 msport.com
 mullvad.net
 musical.ly
