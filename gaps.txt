@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-11-09: 454 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-10: 455 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -134,6 +134,7 @@ hsselite.com
 igram.world
 indown.io
 instagram.com
+instamatch99.com
 interbet.co.za
 itorrents-igruha.org
 javbus.com
@@ -217,6 +218,7 @@ odysee.com
 offtheradar.info
 ok.ru
 okbet.com
+olimpbet.kz
 onlyfans.com
 openworlds.info
 oscobo.com
@@ -440,7 +442,6 @@ whoogle.dcs0.hu
 whoogle.lunar.icu
 whoogle.no-logs.com
 wiby.me
-williamhill.com
 win2day.at
 winner.bet
 wplay.co
