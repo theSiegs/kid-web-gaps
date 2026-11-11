@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-11-10: 455 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-11: 458 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -131,6 +131,7 @@ hmsearx.h0meserver.com
 hola.org
 hollywoodbets.net
 hsselite.com
+ichancy.com
 igram.world
 indown.io
 instagram.com
@@ -250,6 +251,7 @@ psiphon.ca
 ptgaming.ph
 pump.fun
 quora.com
+qxbroker.com
 rapidgator.net
 recherche.aol.fr
 redd.it
@@ -429,6 +431,7 @@ urban-vpn.com
 utorrent.com
 veikkaus.fi
 videy.co
+vidmateapp.com
 vk.com
 vk.ru
 vkontakte.ru

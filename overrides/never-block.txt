@@ -76,6 +76,7 @@ soax.com  # enterprise/school VPN or dev tool, not a kid workaround
 sportinglife.com  # false positive: legitimate site
 sportingnews.com  # false positive: legitimate site
 su89-cdn.net  # infrastructure / CDN / random host (not a site)
+supersport.hr  # AI: Legitimate Croatian sports betting and news portal.
 t.co  # link shortener used everywhere (blocking breaks shared links)
 tailscale.com  # enterprise/school VPN or dev tool, not a kid workaround
 tiktokcdn-eu.com  # CDN / API / tracking host of a social network (not navigated)
