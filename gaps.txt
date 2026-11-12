@@ -1,10 +1,9 @@
-# kid-web-gaps 2026-11-11: 458 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-12: 457 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
 123moviesfree.net
 1337x.to
-1jugarbet.com
 4chan.org
 4pda.to
 4shared.com
@@ -42,6 +41,7 @@ ay267.com
 baidu.com
 bet30.fans
 bet365.com
+bet365.gr
 bet365.it
 bet88.ph
 bet9ja.com
@@ -54,6 +54,7 @@ betking.com
 betmexico.mx
 betpawa.cd
 betpawa.cm
+betpawa.co.ke
 betpawa.co.tz
 betpawa.co.zm
 betpawa.com
@@ -105,7 +106,6 @@ fb.watch
 fdj.fr
 fdown.net
 filmyfly.bingo
-filmyfly.green
 filmyfly.sale
 find.xenorio.xyz
 fireball.de
@@ -165,7 +165,6 @@ lk21official.cc
 lookmovie2.to
 loteriadehoy.com
 loteriasyapuestas.es
-lotoven.com
 lotteryusa.com
 lottomatica.it
 lukol.com
@@ -185,7 +184,6 @@ metager.org
 metager3.de
 metasearch.nl
 metasearx.com
-micasino.com
 mijisou.com
 millionshort.com
 mirtesen.ru
@@ -213,7 +211,6 @@ nova.rambler.ru
 nustargame.com
 nyaa.si
 o5.gg
-oasisnet.app
 odibets.com
 odysee.com
 offtheradar.info
@@ -235,6 +232,7 @@ pixelchat.ai
 planetwin365.it
 platinmods.com
 playmods.net
+playtime.ph
 pocketoption.com
 polymarket.com
 pornolab.net
@@ -251,7 +249,6 @@ psiphon.ca
 ptgaming.ph
 pump.fun
 quora.com
-qxbroker.com
 rapidgator.net
 recherche.aol.fr
 redd.it
@@ -423,7 +420,6 @@ totogaming.am
 triunfobet.com
 trovu.komun.org
 truthsocial.com
-tuazar.com
 tumblr.com
 twitter.com
 uakinogo.io
@@ -435,6 +431,7 @@ vidmateapp.com
 vk.com
 vk.ru
 vkontakte.ru
+watchanimeworld.one
 webcrawler.com
 websearch.excite.co.jp
 webshare.io
@@ -447,9 +444,11 @@ whoogle.no-logs.com
 wiby.me
 win2day.at
 winner.bet
+winner.rw
 wplay.co
 wtf.roflcopter.fr
 x.com
+x9fnzrtl4x8pynsf.com
 xo.wtf
 yaplakal.com
 yep.com
