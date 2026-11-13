@@ -1,16 +1,16 @@
-# kid-web-gaps 2026-11-12: 457 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-13: 458 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
 123moviesfree.net
 1337x.to
+1jugarbet.com
 4chan.org
 4pda.to
 4shared.com
 500px.com
 5movierulz.university
 5movierulz.ventures
-5play.org
 789bingo.com
 99xo4.com
 9gag.com
@@ -91,7 +91,6 @@ dynabyte.ca
 dzen.ru
 e-hentai.org
 ecuabet.com
-egydead.live
 eksisozluk.com
 elephantbet.co.ao
 elephantbet.co.mz
@@ -114,6 +113,7 @@ fon.bet
 forebet.com
 fotostrana.ru
 gamemania.co.ke
+ganamosbet.net
 ganamosonline.com
 gibiru.com
 gigablast.com
@@ -420,6 +420,7 @@ totogaming.am
 triunfobet.com
 trovu.komun.org
 truthsocial.com
+tuazar.com
 tumblr.com
 twitter.com
 uakinogo.io

@@ -56,6 +56,7 @@ mycdn.me  # CDN / API / tracking host of a social network (not navigated)
 netbird.io  # AI: Infrastructure tool used for virtual private networking.
 ngrok.com  # enterprise/school VPN or dev tool, not a kid workaround
 ngrok.io  # enterprise/school VPN or dev tool, not a kid workaround
+njtzzrvg0lwj3bsn.info  # AI: Random alphanumeric infrastructure hostname not navigable.
 okcdn.ru  # CDN / API / tracking host of a social network (not navigated)
 opendns.com  # DNS resolver / DoH endpoint (not a site)
 oxylabs.io  # enterprise/school VPN or dev tool, not a kid workaround
