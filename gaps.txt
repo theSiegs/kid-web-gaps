@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-11-15: 462 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-16: 467 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -9,6 +9,8 @@
 4pda.to
 4shared.com
 500px.com
+5movierulz.academy
+5movierulz.delivery
 5movierulz.university
 5movierulz.ventures
 789bingo.com
@@ -71,6 +73,7 @@ bsky.app
 bsky.social
 caesars.com
 caliente.mx
+case-battle.moe
 casinoplus.com.ph
 crowncoinscasino.com
 croxyproxy.com
@@ -105,6 +108,7 @@ fb.watch
 fdj.fr
 fdown.net
 filmyfly.bingo
+filmyfly.broker
 filmyfly.sale
 find.xenorio.xyz
 fireball.de
@@ -235,6 +239,7 @@ pinterestpresents.com
 pixelchat.ai
 planetwin365.it
 platinmods.com
+playinboss.com
 playmods.net
 playtime.ph
 pocketoption.com
