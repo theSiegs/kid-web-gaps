@@ -37,6 +37,7 @@ gpcloudservice.com  # enterprise/school VPN or dev tool, not a kid workaround
 habr.com  # not social media for a kid filter (tech blog / email portal / jobs) - decide
 histats.com  # AI: Tracking and analytics infrastructure hostname, not a navigable site.
 honeygain.com  # bandwidth-sharing app backend
+icpsuawn1zy5amys.com  # AI: Infrastructure hostname, not a navigable site.
 imgsmail.ru  # CDN / API / tracking host of a social network (not navigated)
 internetwarriors.net  # false positive: legitimate site
 joinmassive.com  # bandwidth-sharing app backend

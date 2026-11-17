@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-11-16: 467 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-17: 470 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -11,6 +11,7 @@
 500px.com
 5movierulz.academy
 5movierulz.delivery
+5movierulz.directory
 5movierulz.university
 5movierulz.ventures
 789bingo.com
@@ -109,6 +110,7 @@ fdj.fr
 fdown.net
 filmyfly.bingo
 filmyfly.broker
+filmyfly.care
 filmyfly.sale
 find.xenorio.xyz
 fireball.de
@@ -452,6 +454,7 @@ whoogle.lunar.icu
 whoogle.no-logs.com
 whoogle.privacydev.net
 wiby.me
+williamhill.com
 win2day.at
 winner.bet
 winner.rw
