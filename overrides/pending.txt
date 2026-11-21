@@ -1,2 +1,1 @@
 # Awaiting a human decision: move each line to always-block.txt or never-block.txt.
-unmonito.red  # AI unsure: Unsure about site content and safety.
