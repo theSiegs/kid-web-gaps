@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-11-21: 374 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-21: 401 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
@@ -20,6 +20,7 @@
 9mod.com
 adguard-vpn.online
 afun.mx
+agnai.chat
 alltheinternet.com
 allwyn.cz
 an1.com
@@ -69,14 +70,21 @@ bingoplus.com
 bittorrent.com
 blackle.com
 blockaway.net
+botify.ai
 bsky.app
 bsky.social
+c.ai
 caesars.com
 caliente.mx
+candy.ai
 case-battle.moe
 casinoplus.com.ph
+character.ai
+charstar.ai
+chub.ai
 crowncoinscasino.com
 croxyproxy.com
+crushon.ai
 crystalbet.com
 cv666.net
 demonii.com
@@ -85,10 +93,12 @@ discord.com
 discord.gg
 discordapp.com
 dler.org
+dopple.ai
 douban.com
 douyin.com
 douyinliving.com
 draftkings.com
+dreamgf.ai
 dzen.ru
 e-hentai.org
 ecuabet.com
@@ -119,6 +129,7 @@ ganamosbet.net
 ganamosnet.info
 ganamosonline.com
 gigablast.io
+girlfriendgpt.com
 gogoprivate.com
 gogoroyal.com
 goldbet.it
@@ -137,16 +148,19 @@ instagram.com
 instamatch99.com
 interbet.co.za
 itorrents-igruha.org
+janitorai.com
 javbus.com
 javlibrary.com
 javmix.tv
 jkanime.net
 joinmastodon.org
+joyland.ai
 juan365.com
 juegosonce.es
 jumpjump.io
 kalshi.com
 kdreams.jp
+kindroid.ai
 kinogo.ec
 kinogo.online
 ladbrokes.com
@@ -180,10 +194,12 @@ metasearx.com
 millionshort.com
 mirtesen.ru
 misli.az
+moescape.ai
 monstercrawler.com
 moviezda.com
 moviezda.net
 msport.com
+muah.ai
 mullvad.net
 musical.ly
 mwmbl.org
@@ -194,6 +210,7 @@ nesine.com
 netkeiba.com
 nhentai.net
 ninogaming.com
+nomi.ai
 nordvpn.com
 nustargame.com
 nyaa.si
@@ -206,13 +223,14 @@ ok.ru
 okbet.com
 olimpbet.kz
 onlyfans.com
+ourdream.ai
 paddypower.com
 pikabu.ru
 pin.it
 pinterest.co.uk
 pinterest.com
-pinterest.de
 pinterestpresents.com
+pixai.art
 pixelchat.ai
 planetwin365.it
 platinmods.com
@@ -220,6 +238,7 @@ playinboss.com
 playmods.net
 playtime.ph
 pocketoption.com
+polybuzz.ai
 polymarket.com
 pornolab.net
 premierbet.co.ao
@@ -238,13 +257,17 @@ quora.com
 rapidgator.net
 redd.it
 reddit.com
+replika.com
 retifo.com
 rezka.ag
+risuai.xyz
 romsfun.com
 romsgames.net
 rutracker.org
 s.tokhmi.xyz
 s.trung.fun
+sakura.fm
+saucepan.ai
 search.0xgingi.com
 search.2b9t.xyz
 search.abohiccups.com
@@ -316,6 +339,7 @@ skyvegas.com
 snai.it
 snapchat.com
 snapsave.app
+spicychat.ai
 sportpesa.com
 sportybet.co.za
 sportybet.com
@@ -332,6 +356,7 @@ surfshark.com
 szerencsejatek.hu
 takarakuji-official.jp
 takbet.com
+talkie-ai.com
 thepiratebay.org
 threads.com
 threads.net
@@ -371,7 +396,9 @@ wplay.co
 x.com
 x9fnzrtl4x8pynsf.com
 xo.wtf
+xoul.ai
 yaplakal.com
 yesplay.bet
+yodayo.com
 zeturf.fr
 zhihu.com
