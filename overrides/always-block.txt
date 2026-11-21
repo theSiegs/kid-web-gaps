@@ -12,3 +12,32 @@ mediafire.com  # file host
 mega.co.nz  # file host, also piracy
 mega.nz  # file host, also piracy
 rapidgator.net  # file host
+# AI companion and character role-play chat (adult role-play, no real age check), added 2026-11-21
+janitorai.com  # AI character role-play chat, NSFW bots
+character.ai  # AI character chat
+c.ai  # character.ai short domain
+chub.ai  # AI character role-play, NSFW bots (venus.chub.ai)
+crushon.ai  # AI companion role-play, NSFW
+spicychat.ai  # AI companion role-play, NSFW
+candy.ai  # AI girlfriend companion, NSFW
+muah.ai  # AI companion, NSFW
+ourdream.ai  # AI companion, NSFW
+dreamgf.ai  # AI girlfriend companion, NSFW
+girlfriendgpt.com  # AI girlfriend companion, NSFW
+nomi.ai  # AI companion
+kindroid.ai  # AI companion
+replika.com  # AI companion
+talkie-ai.com  # AI character chat (Talkie)
+polybuzz.ai  # AI character chat
+joyland.ai  # AI character role-play chat
+sakura.fm  # AI character role-play chat, NSFW
+saucepan.ai  # AI character role-play chat
+xoul.ai  # AI character role-play chat
+dopple.ai  # AI character chat
+charstar.ai  # AI character chat
+botify.ai  # AI character chat
+moescape.ai  # AI character chat and images (formerly Yodayo)
+yodayo.com  # AI character chat and images
+agnai.chat  # AI role-play chat front end
+risuai.xyz  # AI role-play chat front end
+pixai.art  # AI character images and chat
