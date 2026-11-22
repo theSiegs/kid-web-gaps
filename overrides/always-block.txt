@@ -41,3 +41,4 @@ yodayo.com  # AI character chat and images
 agnai.chat  # AI role-play chat front end
 risuai.xyz  # AI role-play chat front end
 pixai.art  # AI character images and chat
+characterai.io  # character.ai look-alike domain

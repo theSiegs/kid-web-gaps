@@ -1,3 +1,2 @@
 # Awaiting a human decision: move each line to always-block.txt or never-block.txt.
-characterai.io  # AI unsure: Unclear if official domain or mirror site.
 poe.com  # AI unsure: Mixes general LLMs with user-made character bots.
