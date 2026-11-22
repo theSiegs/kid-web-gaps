@@ -419,6 +419,11 @@
   "rank": 934,
   "reason": "AI character chat"
  },
+ "characterai.io": {
+  "category": "always-block",
+  "rank": 23621,
+  "reason": "character.ai look-alike domain"
+ },
  "charhub.ai": {
   "category": "ai_companion",
   "rank": 148213,
