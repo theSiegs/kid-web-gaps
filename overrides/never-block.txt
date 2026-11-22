@@ -123,6 +123,7 @@ pango-cloud.com  # infrastructure / CDN / random host (not a site)
 phimsexai.site  # AI: Adult video site with AI keyword spam.
 phimsexai.xyz  # AI: Adult video site with AI keyword spam.
 pinimg.com  # CDN / API / tracking host of a social network (not navigated)
+poe.com  # general AI assistants left alone by the household (2026-11-21); user-made bots there too
 pointtoserver.com  # infrastructure / CDN / random host (not a site)
 prachatai.com  # AI: News and media website.
 promptcowboy.ai  # AI: AI prompt engineering tool.
@@ -183,4 +184,3 @@ yg5sjx5kzy.com  # infrastructure / CDN / random host (not a site)
 zijieapi.com  # CDN / API / tracking host of a social network (not navigated)
 zipchat.ai  # AI: AI customer support chatbot builder for businesses.
 zwyr157wwiu6eior.com  # AI: Infrastructure hostname, not a direct navigable user website.
-poe.com  # general AI assistants left alone by the household (2026-11-21); user-made bots there too
