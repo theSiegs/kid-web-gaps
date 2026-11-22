@@ -1,7 +1,8 @@
 """Build gaps.txt: sites a child can reach that Chrome's own "block explicit sites" filter doesn't cover.
 
 Sources: HaGeZi DNS blocklists (category lists, GPL-3.0) cut to what people actually visit using the Tranco
-top-1M ranking. Then:
+top-1M ranking, plus AI companion / character role-play chat sites found by name in the Tranco ranking (no
+maintained list of those exists; every name hit goes through the review below). Then:
   - drop non-navigable infrastructure (DNS resolvers, CDNs, API hosts) and anything in overrides/never-block.txt
   - add overrides/always-block.txt
   - domains that are new since the last build go through an optional AI review (Gemini, if GEMINI_API_KEY is
@@ -34,6 +35,36 @@ CATEGORIES = {
     "doh-vpn-proxy-bypass": 10_000,  # web proxies, VPNs: filter workarounds
     "anti.piracy": 10_000,           # piracy, sideload app stores, modded APKs
     "gambling.mini": 10_000,
+}
+# AI companion / character role-play chat: no maintained list exists, so candidates are Tranco domains (within
+# this rank cut-off) whose name uses companion / role-play wording. The patterns over-match on purpose; the AI
+# review (with its own question, see REVIEW_PROMPTS) sorts companion services from everything else.
+AI_COMPANION = "ai_companion"
+AI_COMPANION_CUT = 500_000
+# Wording that points to a companion / role-play service wherever it appears in the name
+AI_COMPANION_NAME = re.compile(
+    r"waifu|husbando|role-?play|"
+    r"(?:(?<![fh])ai|gpt|virtual|dream|my|hi)-?(?:girl|boy)friend|(?:girl|boy)friend-?(?:ai|gpt|chat|bot)|"
+    r"(?:ai|gpt|virtual|dream|my)-?companion|companion-?(?:ai|chat|bot|gpt)|"
+    r"(?:(?<![fh])ai|gpt)-?(?:gf|bf|chat|char|friend|lover|crush|dating|waifu|sex|nsfw)|"
+    r"(?:gf|bf|chat|char|friend|lover|crush|dating|waifu|sex|nsfw|spicy|companion)-?ai(?![a-z])|"
+    r"(?:gf|bf|friend|lover|crush|waifu|companion)-?gpt|"
+    r"(?:nsfw|spicy|lewd|uncensored)-?(?:chat|char|bot)|"
+    r"(?:^|[.-])rp-?(?:chat|bot)|"
+    r"characters?-?(?:ai|chat|bot)|(?:ai|my)-?characters?|char(?:ai|bot|chat)s?"
+)
+# Looser wording, only counted on the TLDs AI chat services use (matched against the name before the TLD)
+AI_COMPANION_TLD = re.compile(r"\.(?:ai|chat|fm|bot)$")
+AI_COMPANION_TLD_NAME = re.compile(
+    r"chat|char|girl|boy|friend|companion|crush|lover|spicy|nsfw|waifu|dating|"
+    r"(?:^|-)(?:ai|my)?[gb]f(?:-|$)|(?:^|-)rp(?:-|$)"
+)
+# Sent to the review although the name doesn't match: hosts user-made character bots next to general assistants
+AI_COMPANION_EXTRA = {"poe.com"}
+# General AI assistants: never candidates of this category (subdomains included), whatever a review would say
+AI_ASSISTANTS = {
+    "chatgpt.com", "openai.com", "gemini.google.com", "claude.ai", "anthropic.com", "copilot.microsoft.com",
+    "perplexity.ai", "meta.ai", "grok.com", "x.ai",
 }
 MAX_DOMAINS = 2_000  # safety cap; Family Link list limits are unknown
 INFRA = re.compile(
@@ -74,27 +105,54 @@ def header_of(path: Path) -> str:
     return "\n".join(line for line in path.read_text(encoding="utf-8").splitlines() if line.startswith("#"))
 
 
+REVIEW_INTRO = (
+    "You review candidate domains for a parental-control block list pushed to a child's Google account "
+    "(Family Link, enforced in Chrome). Only page navigations are filtered, so infrastructure hostnames are "
+    "useless.\n"
+)
+# Review question per category; categories not listed here use "default"
+REVIEW_PROMPTS = {
+    "default": (
+        "The list targets what Chrome's own 'block explicit sites' filter misses: search engines without "
+        "SafeSearch, social networks, web proxies/VPNs used to bypass filters, piracy and sideload app stores, "
+        "gambling.\n"
+        "For each domain decide:\n"
+        "- keep: a website a child could navigate to that clearly fits its category;\n"
+        "- drop: not a navigable site (CDN, API, DNS resolver, ad/tracking host, enterprise or school VPN, "
+        "developer tool) or a mainstream legitimate site misfiled in the category (news, sports scores, "
+        "ticketing, government);\n"
+        "- review: dual-use or unsure (e.g. general file hosting, educational sites).\n"
+    ),
+    AI_COMPANION: (
+        "These domains were picked only because their name looks like an AI companion or AI role-play chat "
+        "service, so many are false hits.\n"
+        "For each domain decide:\n"
+        "- keep: the site is an AI companion, AI girlfriend/boyfriend, or AI character / role-play chat service "
+        "a child could open and use;\n"
+        "- drop: anything else, e.g. a general AI assistant (ChatGPT, Gemini, Claude, Copilot, Perplexity and "
+        "their clones), an AI developer tool or customer-support chatbot builder, a chat or dating site with "
+        "real people, a role-play game server or forum, an image tool, or a business that just has 'ai', "
+        "'chat' or 'character' in its name;\n"
+        "- review: unsure what the site is, or it mixes user-made character bots with a general assistant.\n"
+    ),
+}
+
+
 def gemini_review(items: list[dict]) -> dict[str, dict]:
     """Ask Gemini to classify new candidates. Returns domain -> {decision, reason}; {} without a key."""
     key = os.environ.get("GEMINI_API_KEY")
     if not key or not items:
         return {}
+    # One question per category group (REVIEW_PROMPTS), up to 100 domains per request
+    groups: dict[str, list[dict]] = {}
+    for i in items:
+        groups.setdefault(i["category"] if i["category"] in REVIEW_PROMPTS else "default", []).append(i)
+    batches = [(g, its[s:s + 100]) for g, its in groups.items() for s in range(0, len(its), 100)]
     results: dict[str, dict] = {}
-    for start in range(0, len(items), 100):
-        batch = items[start:start + 100]
+    for group, batch in batches:
         prompt = (
-            "You review candidate domains for a parental-control block list pushed to a child's Google account "
-            "(Family Link, enforced in Chrome). The list targets what Chrome's own 'block explicit sites' filter "
-            "misses: search engines without SafeSearch, social networks, web proxies/VPNs used to bypass filters, "
-            "piracy and sideload app stores, gambling. Only page navigations are filtered, so infrastructure "
-            "hostnames are useless.\n"
-            "For each domain decide:\n"
-            "- keep: a website a child could navigate to that clearly fits its category;\n"
-            "- drop: not a navigable site (CDN, API, DNS resolver, ad/tracking host, enterprise or school VPN, "
-            "developer tool) or a mainstream legitimate site misfiled in the category (news, sports scores, "
-            "ticketing, government);\n"
-            "- review: dual-use or unsure (e.g. general file hosting, educational sites).\n"
-            "Give a short reason (max 12 words) for every decision.\n\n"
+            REVIEW_INTRO + REVIEW_PROMPTS[group]
+            + "Give a short reason (max 12 words) for every decision.\n\n"
             + "\n".join(f"{i['domain']}\t{i['category']}\trank {i['rank'] or 'n/a'}" for i in batch)
         )
         body = {
@@ -135,6 +193,26 @@ def gemini_review(items: list[dict]) -> dict[str, dict]:
     return results
 
 
+def is_assistant(dom: str) -> bool:
+    """dom is (a subdomain of) a general AI assistant in AI_ASSISTANTS."""
+    parts = dom.split(".")
+    return any(".".join(parts[i:]) in AI_ASSISTANTS for i in range(len(parts) - 1))
+
+
+def ai_companion_candidates(rank: dict[str, int]) -> dict[str, int | None]:
+    """Tranco domains within AI_COMPANION_CUT whose name looks like an AI companion / role-play chat site."""
+    out: dict[str, int | None] = {}
+    for dom, r in rank.items():
+        if r > AI_COMPANION_CUT:
+            continue
+        tld = AI_COMPANION_TLD.search(dom)
+        if AI_COMPANION_NAME.search(dom) or (tld and AI_COMPANION_TLD_NAME.search(dom[:tld.start()])):
+            out[dom] = r
+    for dom in AI_COMPANION_EXTRA:
+        out.setdefault(dom, rank.get(dom))
+    return {d: r for d, r in out.items() if DOMAIN.match(d) and not INFRA.search(d) and not is_assistant(d)}
+
+
 def main() -> int:
     never = read_list(ROOT / "overrides" / "never-block.txt")
     always = read_list(ROOT / "overrides" / "always-block.txt")
@@ -160,6 +238,9 @@ def main() -> int:
             if INFRA.search(dom) or dom in never:
                 continue
             candidates.setdefault(dom, {"category": cat, "rank": r})
+    for dom, r in ai_companion_candidates(rank).items():
+        if dom not in never:
+            candidates.setdefault(dom, {"category": AI_COMPANION, "rank": r})
 
     # New = not published last time and not already waiting for a human
     new = [
@@ -201,7 +282,8 @@ def main() -> int:
     head = (
         f"# kid-web-gaps {today}: {len(published)} domains Chrome's explicit-site filter doesn't cover.\n"
         "# Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list\n"
-        "# (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps"
+        "# (tranco-list.eu), plus reviewed AI companion / role-play chat sites found in the Tranco list.\n"
+        "# License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps"
     )
     (ROOT / "gaps.txt").write_text(head + "\n" + "\n".join(sorted(published)) + "\n", encoding="utf-8", newline="\n")
     (ROOT / "gaps.json").write_text(json.dumps(dict(sorted(published.items())), indent=1) + "\n", encoding="utf-8", newline="\n")

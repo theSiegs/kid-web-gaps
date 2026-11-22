@@ -13,6 +13,14 @@ covers the gaps instead:
 | Filter workarounds: web proxies, VPNs | HaGeZi `doh-vpn-proxy-bypass` | Tranco top 10k |
 | Piracy, sideload app stores, modded APKs | HaGeZi `anti.piracy` | Tranco top 10k |
 | Gambling | HaGeZi `gambling.mini` | Tranco top 10k |
+| AI companion / character role-play chat (`ai_companion`) | Tranco domains whose name matches companion / role-play wording (no list exists) | Tranco top 500k, each one AI-reviewed |
+
+No maintained AI-companion block list exists, so that category is discovered by name: Tranco domains containing
+words such as *waifu*, *roleplay*, *ai girlfriend*, *companion*, *character ai*, or *chat* / *crush* / *spicy* on an
+`.ai` / `.chat` / `.fm` / `.bot` domain. The patterns over-match on purpose (about a hundred names per run) and the
+review below sorts companion services from false hits. General AI assistants (ChatGPT, Gemini, Claude, Copilot,
+Perplexity, Meta AI, Grok) are excluded outright; well-known companion sites the patterns miss are in the AI section
+of `overrides/always-block.txt`.
 
 Popularity cut-offs keep the list to the few hundred domains people actually visit; the full category lists
 (tens of thousands of domains) belong in DNS filtering, not in a browser block list.
@@ -28,13 +36,16 @@ Popularity cut-offs keep the list to the few hundred domains people actually vis
 ## How it's built (daily, GitHub Actions)
 
 1. Download the five HaGeZi category lists and the Tranco top-1M ranking.
-2. Keep all of `nosafesearch` and the top-10k slice of the others.
+2. Keep all of `nosafesearch` and the top-10k slice of the others; add the AI companion name matches from the
+   Tranco top 500k (minus the general AI assistants).
 3. Drop non-navigable infrastructure (DNS resolvers, CDNs, API hosts) and everything in
    `overrides/never-block.txt`; add everything in `overrides/always-block.txt`.
 4. Domains that are **new** since the last build are reviewed by an AI model (Google Gemini, free tier) when the
    repository has a `GEMINI_API_KEY` secret: *keep* is published, *drop* is recorded in `never-block.txt` with the
    reason, *unsure* goes to `overrides/pending.txt`. Without a key, new domains wait in `pending.txt`. **Nothing
-   new is published unreviewed.**
+   new is published unreviewed.** AI companion candidates get their own question: is this an AI companion, AI
+   girlfriend/boyfriend or AI character / role-play chat service a child could use, or something else (a general
+   assistant, a developer tool, a business that just has "ai" or "character" in its name)?
 5. Commit `gaps.txt` / `gaps.json`; an open issue "Domains waiting for review" lists `pending.txt`.
 
 ### Deciding pending domains
