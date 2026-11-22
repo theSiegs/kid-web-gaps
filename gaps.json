@@ -99,6 +99,21 @@
   "rank": 316730,
   "reason": "AI role-play chat front end"
  },
+ "aifriends.cc": {
+  "category": "ai_companion",
+  "rank": 206122,
+  "reason": "AI: AI companion chat service."
+ },
+ "aigirlfriend69.com": {
+  "category": "ai_companion",
+  "rank": 329161,
+  "reason": "AI: Explicit AI girlfriend companion site."
+ },
+ "ainsfw.ai": {
+  "category": "ai_companion",
+  "rank": 239151,
+  "reason": "AI: NSFW AI character chat platform."
+ },
  "alltheinternet.com": {
   "category": "nosafesearch",
   "rank": null,
@@ -203,6 +218,11 @@
   "category": "gambling.mini",
   "rank": 1221,
   "reason": "reviewed"
+ },
+ "babechat.ai": {
+  "category": "ai_companion",
+  "rank": 81153,
+  "reason": "AI: AI companion and girlfriend chat platform."
  },
  "baidu.com": {
   "category": "nosafesearch",
@@ -314,6 +334,11 @@
   "rank": 1715,
   "reason": "reviewed"
  },
+ "betterwaifu.com": {
+  "category": "ai_companion",
+  "rank": 168088,
+  "reason": "AI: AI anime waifu chat companion."
+ },
  "betway.co.mz": {
   "category": "gambling.mini",
   "rank": 9200,
@@ -394,6 +419,16 @@
   "rank": 934,
   "reason": "AI character chat"
  },
+ "charhub.ai": {
+  "category": "ai_companion",
+  "rank": 148213,
+  "reason": "AI: AI character roleplay chat platform."
+ },
+ "charsnap.ai": {
+  "category": "ai_companion",
+  "rank": 265279,
+  "reason": "AI: AI character chat tool."
+ },
  "charstar.ai": {
   "category": "always-block",
   "rank": null,
@@ -413,6 +448,11 @@
   "category": "doh-vpn-proxy-bypass",
   "rank": 1561,
   "reason": "reviewed: KEY: web proxy"
+ },
+ "crushie.ai": {
+  "category": "ai_companion",
+  "rank": 45473,
+  "reason": "AI: AI companion and character chat."
  },
  "crushon.ai": {
   "category": "always-block",
@@ -539,6 +579,11 @@
   "rank": 2490,
   "reason": "reviewed"
  },
+ "fantachat.ai": {
+  "category": "ai_companion",
+  "rank": 356306,
+  "reason": "AI: AI fantasy roleplay companion."
+ },
  "fb.com": {
   "category": "social",
   "rank": 693,
@@ -634,6 +679,11 @@
   "rank": 9839,
   "reason": "reviewed"
  },
+ "genspicy.ai": {
+  "category": "ai_companion",
+  "rank": 146673,
+  "reason": "AI: Spicy AI character roleplay platform."
+ },
  "gigablast.io": {
   "category": "nosafesearch",
   "rank": null,
@@ -664,6 +714,11 @@
   "rank": 1623,
   "reason": "reviewed"
  },
+ "gptgirlfriend.online": {
+  "category": "ai_companion",
+  "rank": 29650,
+  "reason": "AI: AI girlfriend chat service."
+ },
  "grass.io": {
   "category": "doh-vpn-proxy-bypass",
   "rank": 5699,
@@ -684,6 +739,11 @@
   "rank": null,
   "reason": "reviewed"
  },
+ "hiwaifu.com": {
+  "category": "ai_companion",
+  "rank": 13763,
+  "reason": "AI: AI waifu companion app."
+ },
  "hola.org": {
   "category": "doh-vpn-proxy-bypass",
   "rank": 5207,
@@ -694,6 +754,16 @@
   "rank": 1395,
   "reason": "reviewed"
  },
+ "honeychat.bot": {
+  "category": "ai_companion",
+  "rank": 367508,
+  "reason": "AI: AI companion chatbot."
+ },
+ "hornyaichat.net": {
+  "category": "ai_companion",
+  "rank": 315079,
+  "reason": "AI: NSFW AI companion chat."
+ },
  "hsselite.com": {
   "category": "doh-vpn-proxy-bypass",
   "rank": 7298,
@@ -703,6 +773,11 @@
   "category": "gambling.mini",
   "rank": 9345,
   "reason": "AI: Online gambling site directly accessible by children."
+ },
+ "ifriend.ai": {
+  "category": "ai_companion",
+  "rank": 63028,
+  "reason": "AI: AI companion app."
  },
  "igram.world": {
   "category": "anti.piracy",
@@ -778,6 +853,11 @@
   "category": "gambling.mini",
   "rank": 9490,
   "reason": "reviewed"
+ },
+ "juicychat.ai": {
+  "category": "ai_companion",
+  "rank": 39440,
+  "reason": "AI: NSFW AI companion chat."
  },
  "jumpjump.io": {
   "category": "doh-vpn-proxy-bypass",
@@ -894,6 +974,11 @@
   "rank": 8831,
   "reason": "reviewed"
  },
+ "lusychat.ai": {
+  "category": "ai_companion",
+  "rank": 46134,
+  "reason": "AI: AI companion chat platform."
+ },
  "lx.vern.cc": {
   "category": "nosafesearch",
   "rank": null,
@@ -1009,15 +1094,35 @@
   "rank": 656514,
   "reason": "reviewed"
  },
+ "myailover.net": {
+  "category": "ai_companion",
+  "rank": 136311,
+  "reason": "AI: AI romantic companion service."
+ },
+ "mychara.ai": {
+  "category": "ai_companion",
+  "rank": 460702,
+  "reason": "AI: AI character creation and chat."
+ },
  "mycima.cc": {
   "category": "anti.piracy",
   "rank": 9275,
   "reason": "reviewed"
  },
+ "mydreamcompanion.com": {
+  "category": "ai_companion",
+  "rank": 38258,
+  "reason": "AI: AI companion and girlfriend service."
+ },
  "mysterium.network": {
   "category": "doh-vpn-proxy-bypass",
   "rank": 3982,
   "reason": "reviewed"
+ },
+ "mywaifu.best": {
+  "category": "ai_companion",
+  "rank": 41285,
+  "reason": "AI: AI waifu chat service."
  },
  "ncore.pro": {
   "category": "anti.piracy",
@@ -1299,6 +1404,11 @@
   "rank": 589757,
   "reason": "AI role-play chat front end"
  },
+ "roleplay.chat": {
+  "category": "ai_companion",
+  "rank": 323214,
+  "reason": "AI: AI character roleplay chat platform."
+ },
  "romsfun.com": {
   "category": "anti.piracy",
   "rank": 8720,
@@ -1308,6 +1418,11 @@
   "category": "anti.piracy",
   "rank": 8988,
   "reason": "reviewed"
+ },
+ "rosychat.ai": {
+  "category": "ai_companion",
+  "rank": 368348,
+  "reason": "AI: AI companion and character chat."
  },
  "rutracker.org": {
   "category": "anti.piracy",
@@ -1689,10 +1804,20 @@
   "rank": 8840,
   "reason": "reviewed"
  },
+ "spicyai.space": {
+  "category": "ai_companion",
+  "rank": 206080,
+  "reason": "AI: AI character chat service."
+ },
  "spicychat.ai": {
   "category": "always-block",
   "rank": 6938,
   "reason": "AI companion role-play, NSFW"
+ },
+ "spicylab.ai": {
+  "category": "ai_companion",
+  "rank": 392760,
+  "reason": "AI: AI character chat tool."
  },
  "sportpesa.com": {
   "category": "gambling.mini",
@@ -1824,6 +1949,11 @@
   "rank": 6634,
   "reason": "reviewed"
  },
+ "trycrush.ai": {
+  "category": "ai_companion",
+  "rank": 193332,
+  "reason": "AI: AI companion and character role-play service."
+ },
  "tuazar.com": {
   "category": "gambling.mini",
   "rank": 9985,
@@ -1869,6 +1999,11 @@
   "rank": 9193,
   "reason": "AI: Sideload app store for downloading restricted media."
  },
+ "vivochat.ai": {
+  "category": "ai_companion",
+  "rank": 195471,
+  "reason": "AI: AI chat platform for companions."
+ },
  "vk.com": {
   "category": "social",
   "rank": 166,
@@ -1883,6 +2018,21 @@
   "category": "social",
   "rank": 1543,
   "reason": "reviewed"
+ },
+ "waifubitches.com": {
+  "category": "ai_companion",
+  "rank": 398233,
+  "reason": "AI: NSFW AI character chat platform."
+ },
+ "waifulab.net": {
+  "category": "ai_companion",
+  "rank": 413316,
+  "reason": "AI: AI waifu character generator and chat."
+ },
+ "waifuoverlord.com": {
+  "category": "ai_companion",
+  "rank": 112497,
+  "reason": "AI: AI character role-play chatbot platform."
  },
  "watchanimeworld.one": {
   "category": "anti.piracy",

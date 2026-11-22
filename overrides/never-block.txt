@@ -1,17 +1,54 @@
 # Domains never pushed, even if a source list has them. One per line; text after '#' is a note.
 365scores.com  # false positive: legitimate site
 a-ads.com  # ad network / tracker (not a site)
+activatechat.ai  # AI: Business customer support chatbot builder.
 adguard-dns.com  # DNS resolver / DoH endpoint (not a site)
 ads-twitter.com  # CDN / API / tracking host of a social network (not navigated)
+aichat4search.com  # AI: General search and chat assistant tool.
+aichatapp.ai  # AI: General AI assistant and productivity app.
+aichatik.online  # AI: General chatbot assistant platform.
+aichatik.shop  # AI: General chatbot assistant platform.
+aichatlauncher.com  # AI: General AI assistant browser extension or tool.
+aichatting.net  # AI: General conversational AI utility.
+aichattings.com  # AI: General conversational AI utility.
+aidating.am  # AI: Real human dating site.
 aiscore.com  # false positive: legitimate site
 alidns.com  # DNS resolver / DoH endpoint (not a site)
+alrugaibfurniture.com  # AI: Furniture store, unrelated domain.
 amemv.com  # CDN / API / tracking host of a social network (not navigated)
+aniroleplay.com  # AI: Human anime roleplay forum or community.
+ask-chat.ai  # AI: General purpose AI assistant.
+askaichat.app  # AI: General purpose AI assistant app.
 attheraces.com  # false positive: legitimate site
+autochat.ai  # AI: Business automation chatbot platform.
 azureserv.com  # infrastructure / CDN / random host (not a site)
+baichat.app  # AI: General AI assistant.
+bluemoonroleplaying.com  # AI: Human text-based roleplaying community.
 byteimg.com  # CDN / API / tracking host of a social network (not navigated)
 byteoversea.com  # CDN / API / tracking host of a social network (not navigated)
 c6gj-static.net  # infrastructure / CDN / random host (not a site)
+caichat.ai  # AI: General or business chatbot tool.
 cdninstagram.com  # CDN / API / tracking host of a social network (not navigated)
+characterai.dev  # AI: Developer API and resource site.
+chat-box.ai  # AI: General AI chatbot assistant.
+chatai.de  # AI: General AI chat service.
+chatai.org  # AI: General AI chat service.
+chatbotapp.ai  # AI: General AI assistant app.
+chatbox.ai  # AI: General AI desktop client.
+chatday.ai  # AI: General conversational AI assistant.
+chatgbot.ai  # AI: General AI assistant clone.
+chatib.chat  # AI: Real human chat rooms.
+chatix.chat  # AI: General chat widget builder.
+chatlayer.ai  # AI: Customer service bot builder.
+chatling.ai  # AI: Customer support chatbot builder.
+chaton.ai  # AI: General AI assistant app.
+chatsimple.ai  # AI: Business website chatbot tool.
+chatsupport.chat  # AI: Customer support tool.
+chatterfy.ai  # AI: Business chatbot solution.
+chatvusyon.ai  # AI: General AI tool.
+chatwill.ai  # AI: Business AI chatbot creator.
+chatx.ai  # AI: General AI chat utility.
+chatxpr.ai  # AI: General AI assistant.
 cloudflare-dns.com  # DNS resolver / DoH endpoint (not a site)
 cloudflare-gateway.com  # DNS resolver / DoH endpoint (not a site)
 decodo.com  # enterprise/school VPN or dev tool, not a kid workaround
@@ -24,59 +61,97 @@ douyincdn.com  # CDN / API / tracking host of a social network (not navigated)
 douyinpic.com  # CDN / API / tracking host of a social network (not navigated)
 douyinvod.com  # CDN / API / tracking host of a social network (not navigated)
 dtscout.com  # ad network / tracker (not a site)
+edgechat.ai  # AI: General AI assistant.
 expressapisv2.net  # infrastructure / CDN / random host (not a site)
+ezchatbot.ai  # AI: Business support chatbot.
 facebook-hardware.com  # CDN / API / tracking host of a social network (not navigated)
 facebook.net  # CDN / API / tracking host of a social network (not navigated)
 fandango.com  # false positive: legitimate site
+fastaichat.ru  # AI: General AI chat service.
 fbcdn.net  # CDN / API / tracking host of a social network (not navigated)
 fbsbx.com  # CDN / API / tracking host of a social network (not navigated)
+ffxiv-roleplayers.com  # AI: Video game human roleplay community.
 flashscore.com.br  # false positive: legitimate site
 flashscore.fr  # false positive: legitimate site
 freewebs.com  # false positive: legitimate site
+friendli.ai  # AI: AI infrastructure and developer platform.
+girls.chat  # AI: Real human chat platform.
 gpcloudservice.com  # enterprise/school VPN or dev tool, not a kid workaround
+gpt-chatbot.ru  # AI: General GPT assistant.
 habr.com  # not social media for a kid filter (tech blog / email portal / jobs) - decide
 histats.com  # AI: Tracking and analytics infrastructure hostname, not a navigable site.
 honeygain.com  # bandwidth-sharing app backend
 icpsuawn1zy5amys.com  # AI: Infrastructure hostname, not a navigable site.
 imgsmail.ru  # CDN / API / tracking host of a social network (not navigated)
 internetwarriors.net  # false positive: legitimate site
+iwakuroleplay.com  # AI: Human roleplay forum.
+jantiroleplay.com  # AI: Human roleplay site.
+jochat.ai  # AI: General AI assistant.
 joinmassive.com  # bandwidth-sharing app backend
 jra.go.jp  # false positive: legitimate site
 kbz0pwvxmv.com  # infrastructure / CDN / random host (not a site)
+kcdroleplay.com  # AI: Video game roleplay community.
 keiba.go.jp  # false positive: legitimate site
+librechat.ai  # AI: Open source developer chat UI.
 licdn.com  # CDN / API / tracking host of a social network (not navigated)
+limechat.ai  # AI: E-commerce customer service platform.
 line-apps.com  # CDN / API / tracking host of a social network (not navigated)
 line-scdn.net  # CDN / API / tracking host of a social network (not navigated)
 line.biz  # AI: Mainstream business portal for Line.
 linkedin.com  # not social media for a kid filter (tech blog / email portal / jobs) - decide
+livechatai.com  # AI: Business website live chat bot.
 lnkd.in  # not social media for a kid filter (tech blog / email portal / jobs) - decide
 localto.net  # enterprise/school VPN or dev tool, not a kid workaround
+lootandwaifus.com  # AI: Gaming blog or community site.
 mail.ru  # not social media for a kid filter (tech blog / email portal / jobs) - decide
+maisexo.com  # AI: Adult content site, not AI.
+meetchat.chat  # AI: Real human chat platform.
 mundodeportivo.com  # false positive: legitimate site
 mycdn.me  # CDN / API / tracking host of a social network (not navigated)
+nemesus-roleplay.net  # AI: Game server and human roleplay.
 netbird.io  # AI: Infrastructure tool used for virtual private networking.
 ngrok.com  # enterprise/school VPN or dev tool, not a kid workaround
 ngrok.io  # enterprise/school VPN or dev tool, not a kid workaround
 njtzzrvg0lwj3bsn.info  # AI: Random alphanumeric infrastructure hostname not navigable.
 okcdn.ru  # CDN / API / tracking host of a social network (not navigated)
+omnichat.ai  # AI: Business omnichannel customer support.
 opendns.com  # DNS resolver / DoH endpoint (not a site)
+overchat.ai  # AI: General AI chat tool.
 oxylabs.io  # enterprise/school VPN or dev tool, not a kid workaround
 pandasecurity.com  # enterprise/school VPN or dev tool, not a kid workaround
 pango-cloud.com  # infrastructure / CDN / random host (not a site)
+phimsexai.site  # AI: Adult video site with AI keyword spam.
+phimsexai.xyz  # AI: Adult video site with AI keyword spam.
 pinimg.com  # CDN / API / tracking host of a social network (not navigated)
 pointtoserver.com  # infrastructure / CDN / random host (not a site)
+prachatai.com  # AI: News and media website.
+promptcowboy.ai  # AI: AI prompt engineering tool.
 pstatp.com  # CDN / API / tracking host of a social network (not navigated)
+quickchat.ai  # AI: Business conversational AI platform.
 redditmedia.com  # CDN / API / tracking host of a social network (not navigated)
 redditstatic.com  # CDN / API / tracking host of a social network (not navigated)
 resolver.arpa  # DNS resolver / DoH endpoint (not a site)
+rina-roleplay.com  # AI: Human roleplay community.
+roleplay.me  # AI: Human social roleplay network.
+roleplayer.me  # AI: Human social roleplay network.
+roleplayerguild.com  # AI: Human roleplaying forum.
+roleplaygateway.com  # AI: Human roleplaying forum.
+roleplayrepublic.com  # AI: Human roleplay directory and community.
+roleplayrp.com  # AI: Human roleplay community.
 sc-cdn.net  # CDN / API / tracking host of a social network (not navigated)
 sc-gw.com  # CDN / API / tracking host of a social network (not navigated)
 sc-static.net  # CDN / API / tracking host of a social network (not navigated)
+simple-roleplay.fr  # AI: Game server community.
 snapkit.com  # CDN / API / tracking host of a social network (not navigated)
 snssdk.com  # CDN / API / tracking host of a social network (not navigated)
 soax.com  # enterprise/school VPN or dev tool, not a kid workaround
+solsroleplay.com  # AI: Gaming community roleplay.
 sportinglife.com  # false positive: legitimate site
 sportingnews.com  # false positive: legitimate site
+srgchat.chat  # AI: General chat platform.
+steproleplay.com  # AI: Human roleplay forum.
+strip-chat.chat  # AI: Adult webcam or real-people chat site, not AI companion.
+stripchats.chat  # AI: Adult webcam or real-people chat site, not AI companion.
 su89-cdn.net  # infrastructure / CDN / random host (not a site)
 supersport.hr  # AI: Legitimate Croatian sports betting and news portal.
 t.co  # link shortener used everywhere (blocking breaks shared links)
@@ -99,9 +174,12 @@ userapi.com  # CDN / API / tracking host of a social network (not navigated)
 vk-portal.net  # CDN / API / tracking host of a social network (not navigated)
 vkuser.net  # CDN / API / tracking host of a social network (not navigated)
 vkuseraudio.net  # CDN / API / tracking host of a social network (not navigated)
+waifu2x.net  # AI: Image upscaling tool, not an AI companion.
 wlvpn.com  # AI: Commercial VPN service infrastructure and signup portal.
 x-cdn-static.com  # infrastructure / CDN / random host (not a site)
 xbox-dns.ru  # DNS resolver / DoH endpoint (not a site)
+yeschat.ai  # AI: General AI assistant aggregator, not a character chat companion.
 yg5sjx5kzy.com  # infrastructure / CDN / random host (not a site)
 zijieapi.com  # CDN / API / tracking host of a social network (not navigated)
+zipchat.ai  # AI: AI customer support chatbot builder for businesses.
 zwyr157wwiu6eior.com  # AI: Infrastructure hostname, not a direct navigable user website.

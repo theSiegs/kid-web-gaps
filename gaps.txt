@@ -1,6 +1,7 @@
-# kid-web-gaps 2026-11-21: 401 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-22: 431 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
-# (tranco-list.eu). License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
+# (tranco-list.eu), plus reviewed AI companion / role-play chat sites found in the Tranco list.
+# License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
 100searchengines.com
 123moviesfree.net
 1337x.to
@@ -21,6 +22,9 @@
 adguard-vpn.online
 afun.mx
 agnai.chat
+aifriends.cc
+aigirlfriend69.com
+ainsfw.ai
 alltheinternet.com
 allwyn.cz
 an1.com
@@ -42,6 +46,7 @@ archiveofourown.org
 arenaplus.ph
 arionplay.com
 ay267.com
+babechat.ai
 baidu.com
 bet30.fans
 bet365.com
@@ -64,6 +69,7 @@ betpawa.co.zm
 betpawa.com
 betpawa.mw
 betpawa.ug
+betterwaifu.com
 betway.co.mz
 betway.co.za
 bingoplus.com
@@ -80,10 +86,13 @@ candy.ai
 case-battle.moe
 casinoplus.com.ph
 character.ai
+charhub.ai
+charsnap.ai
 charstar.ai
 chub.ai
 crowncoinscasino.com
 croxyproxy.com
+crushie.ai
 crushon.ai
 crystalbet.com
 cv666.net
@@ -109,6 +118,7 @@ evo-games.com
 expressvpn.com
 facebook.com
 fanduel.com
+fantachat.ai
 fb.com
 fb.me
 fb.watch
@@ -128,20 +138,26 @@ gamemania.co.ke
 ganamosbet.net
 ganamosnet.info
 ganamosonline.com
+genspicy.ai
 gigablast.io
 girlfriendgpt.com
 gogoprivate.com
 gogoroyal.com
 goldbet.it
 goojara.to
+gptgirlfriend.online
 grass.io
 grep.vim.wtf
 gzone.ph
 h4g3z1-nosafesearch.web.app
+hiwaifu.com
 hola.org
 hollywoodbets.net
+honeychat.bot
+hornyaichat.net
 hsselite.com
 ichancy.com
+ifriend.ai
 igram.world
 indown.io
 instagram.com
@@ -157,6 +173,7 @@ joinmastodon.org
 joyland.ai
 juan365.com
 juegosonce.es
+juicychat.ai
 jumpjump.io
 kalshi.com
 kdreams.jp
@@ -180,6 +197,7 @@ loteriadehoy.com
 loteriasyapuestas.es
 lotoven.com
 lottomatica.it
+lusychat.ai
 lx.vern.cc
 lycos.com
 m.me
@@ -203,8 +221,12 @@ muah.ai
 mullvad.net
 musical.ly
 mwmbl.org
+myailover.net
+mychara.ai
 mycima.cc
+mydreamcompanion.com
 mysterium.network
+mywaifu.best
 ncore.pro
 nesine.com
 netkeiba.com
@@ -261,8 +283,10 @@ replika.com
 retifo.com
 rezka.ag
 risuai.xyz
+roleplay.chat
 romsfun.com
 romsgames.net
+rosychat.ai
 rutracker.org
 s.tokhmi.xyz
 s.trung.fun
@@ -339,7 +363,9 @@ skyvegas.com
 snai.it
 snapchat.com
 snapsave.app
+spicyai.space
 spicychat.ai
+spicylab.ai
 sportpesa.com
 sportybet.co.za
 sportybet.com
@@ -366,6 +392,7 @@ torproject.org
 totogaming.am
 triunfobet.com
 truthsocial.com
+trycrush.ai
 tuazar.com
 tumblr.com
 twitter.com
@@ -375,9 +402,13 @@ utorrent.com
 veikkaus.fi
 videy.co
 vidmateapp.com
+vivochat.ai
 vk.com
 vk.ru
 vkontakte.ru
+waifubitches.com
+waifulab.net
+waifuoverlord.com
 watchanimeworld.one
 webshare.io
 weebcentral.com
