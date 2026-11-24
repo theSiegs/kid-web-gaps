@@ -177,6 +177,7 @@ vk-portal.net  # CDN / API / tracking host of a social network (not navigated)
 vkuser.net  # CDN / API / tracking host of a social network (not navigated)
 vkuseraudio.net  # CDN / API / tracking host of a social network (not navigated)
 waifu2x.net  # AI: Image upscaling tool, not an AI companion.
+waifulabs.com  # AI: Anime character generation tool, not an AI chat service.
 wlvpn.com  # AI: Commercial VPN service infrastructure and signup portal.
 x-cdn-static.com  # infrastructure / CDN / random host (not a site)
 xbox-dns.ru  # DNS resolver / DoH endpoint (not a site)

@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-11-23: 432 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-24: 433 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu), plus reviewed AI companion / role-play chat sites found in the Tranco list.
 # License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
@@ -91,6 +91,8 @@ charhub.ai
 charsnap.ai
 charstar.ai
 chub.ai
+cochat.ai
+coral.co.uk
 crowncoinscasino.com
 croxyproxy.com
 crushie.ai
@@ -257,7 +259,6 @@ pixai.art
 pixelchat.ai
 planetwin365.it
 platinmods.com
-playinboss.com
 playmods.net
 playtime.ph
 pocketoption.com
