@@ -1,4 +1,4 @@
-# kid-web-gaps 2026-11-24: 433 domains Chrome's explicit-site filter doesn't cover.
+# kid-web-gaps 2026-11-25: 434 domains Chrome's explicit-site filter doesn't cover.
 # Built from HaGeZi DNS blocklists (GPL-3.0, github.com/hagezi/dns-blocklists) ranked with the Tranco list
 # (tranco-list.eu), plus reviewed AI companion / role-play chat sites found in the Tranco list.
 # License: GPL-3.0. Source and overrides: github.com/theSiegs/kid-web-gaps
@@ -45,6 +45,7 @@ apuestatotal.com
 archiveofourown.org
 arenaplus.ph
 arionplay.com
+atg.se
 ay267.com
 babechat.ai
 baidu.com

@@ -1,1 +1,2 @@
 # Awaiting a human decision: move each line to always-block.txt or never-block.txt.
+chatspot.ai  # new in ai_companion, not reviewed yet
