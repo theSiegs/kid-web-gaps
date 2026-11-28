@@ -104,6 +104,7 @@ livechatai.com  # AI: Business website live chat bot.
 lnkd.in  # not social media for a kid filter (tech blog / email portal / jobs) - decide
 localto.net  # enterprise/school VPN or dev tool, not a kid workaround
 lootandwaifus.com  # AI: Gaming blog or community site.
+lunarcrush.ai  # AI: Social intelligence platform for crypto, not an AI companion.
 mail.ru  # not social media for a kid filter (tech blog / email portal / jobs) - decide
 maisexo.com  # AI: Adult content site, not AI.
 meetchat.chat  # AI: Real human chat platform.
